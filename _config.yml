@@ -5,7 +5,11 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
+<<<<<<< HEAD
 url: https://galtubi91.github.io
+=======
+url: http://galtubi91.github.io
+>>>>>>> a601a6e205a405f4550905fd0eb7a04b8400a703
 #url: http://localhost:4000
 
 # Jekyll configuration
@@ -51,3 +55,7 @@ owner:
     ad-client:
     ad-slot: 
   bing-verify:
+
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
