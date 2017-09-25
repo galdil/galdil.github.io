@@ -7,9 +7,6 @@ logo: site-logo.png
 search: true
 <<<<<<< HEAD
 url: https://galtubi91.github.io
-=======
-url: http://galtubi91.github.io
->>>>>>> a601a6e205a405f4550905fd0eb7a04b8400a703
 #url: http://localhost:4000
 
 # Jekyll configuration
