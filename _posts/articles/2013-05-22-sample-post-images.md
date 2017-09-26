@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stage 1 iframe"
+title: "sample-post-images"
 excerpt: "Examples and code for displaying images in posts."
 categories: articles
 tags: [sample-post, images, test]
