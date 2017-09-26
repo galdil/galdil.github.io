@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Am i getting analytics data on stage?"
+title: "code-highlighting-post"
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
 categories: articles
 tags: [sample-post, code, highlighting]
