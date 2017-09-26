@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD test"
+title: "author-override"
 excerpt: "An article to test overriding the default site author."
 categories: articles
 tags: [sample-post, readability, test]

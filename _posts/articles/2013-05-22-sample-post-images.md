@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "sample-post-images"
-excerpt: "Examples and code for displaying images in posts."
+excerpt: "Examples and code for displaying images"
 categories: articles
 tags: [sample-post, images, test]
 comments: true
