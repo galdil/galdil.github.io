@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Lets change this"
-modified: 2013-05-31
+title: "sample-post"
+modified: 2017-09-26
 categories: articles
 tags: [sample-post]
 image:
