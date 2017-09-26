@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "campaign manager data test"
+title: "sample-link-post"
 excerpt: "Example and code for using link posts."
 categories: articles
 tags: [sample-post, link-post]
