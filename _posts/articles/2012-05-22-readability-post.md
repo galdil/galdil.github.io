@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "readability-post"
-excerpt: "A ton of text to test readability."
+modified: 2017-09-26
 categories: articles
-tags: [sample-post, readability, test, intro]
+tags: [readability]
 image:
   feature: so-simple-sample-image-2.jpg
   credit: WeGraphics
@@ -12,7 +12,6 @@ comments: true
 share: true
 ---
 
-<interaction id="57f61e1cdc63de0d58cf0b30"></interaction>
 
 
 ***==============================***<br>
