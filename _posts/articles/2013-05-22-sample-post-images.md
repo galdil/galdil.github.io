@@ -7,8 +7,6 @@ tags: [sample-post, images, test]
 comments: true
 share: true
 ---
-<iframe src="//stage1-renderer.qmerce.com/interaction/57fb4d884d50c5215db07c3c"  width="100%" height="972" frameborder="0" scrolling="no"></iframe>
-
 
 ## Figures (for images or video)
 

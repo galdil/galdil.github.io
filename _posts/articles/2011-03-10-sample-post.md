@@ -50,8 +50,7 @@ HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a a
 ### Blockquotes
 > Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 
-## List Types
-<div class="apester-media" data-media-id="595908e84649b4e34eade7b2" height="404"></div><script async src="https://static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+
 ### Ordered Lists
 
 1. Item one
@@ -83,8 +82,6 @@ HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a a
 ## Code Snippets
 
 Syntax highlighting via Pygments
-
-<div class="apester-media" data-media-id="5954f78f4649b4e34eadddf1" height="350"></div><script async src="https://static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
 
 {% highlight css %}
 #container {
