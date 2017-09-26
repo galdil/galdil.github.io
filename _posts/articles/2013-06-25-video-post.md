@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDK stage 3 - analytics testing"
+title: "video-post"
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 categories: articles
 tags: [sample-post, video]
