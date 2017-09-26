@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "oksana ineteraction"
+title: "readability-post"
 excerpt: "A ton of text to test readability."
 categories: articles
 tags: [sample-post, readability, test, intro]
