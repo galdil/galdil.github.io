@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "sample-post"
+excerpt: "gal tubi bla bla bla"
 modified: 2017-09-26
 categories: articles
 tags: [sample-post]
@@ -11,6 +12,7 @@ image:
 comments: true
 share: true
 ---
+
 some text
 some text
 some text
