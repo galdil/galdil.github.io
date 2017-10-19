@@ -12,13 +12,14 @@ image:
 comments: true
 share: true
 ---
+
 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59e346881955bbf0"></script> 
 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59e346881955bbf0"></script> 
 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59e346881955bbf0"></script> 
 
-<iframe height="654" width="100%" style="display: block !important; height: 654px !important; width: 100% !important; " scrolling="0" frameBorder="0" src="https://renderer.pe.apester.com/interaction/59e345e7a769950001e81371"></iframe>
+<div class="apester-media" data-media-id="59e89f206bde790001f0fec3" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
 <br>
-<iframe height="388" width="100%" style="display: block !important; height: 388px !important; width: 100% !important; " scrolling="0" frameBorder="0" src="https://renderer.pe.apester.com/interaction/59e34540a769950001e8136e"></iframe>
+<iframe height="512" width="100%" style="display: block !important; height: 512px !important; width: 100% !important; " scrolling="0" frameBorder="0" src="https://renderer.stg.apester.com/interaction/59e89f7e6bde790001f0fec4"></iframe>
 ***==============================***<br>
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
