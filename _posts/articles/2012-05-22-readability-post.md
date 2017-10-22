@@ -35,7 +35,7 @@ Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade
 
 Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
 <br>
-<div class="apester-media" data-media-id="59ec557537757000019e0529" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<div class="apester-media" data-media-id="59ec557537757000019e0529" height="512"></div><script async src="//https://static3.apester.com"></script>
 <br>
 ## Forage occaecat cardigan qui
 
