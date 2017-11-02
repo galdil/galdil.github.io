@@ -17,13 +17,7 @@ some text
 some text
 some text
 some textsome text
-<br>
-from production:
-<br>
-<div class="apester-media" data-media-id="59fae5f3ab9c9a0001c98c86" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
-<br>
-<!--<div class="apester-media" data-media-id="59faed24ab9c9a0001c98ca5" height="350"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
-<br>-->
+
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 # Heading 1
