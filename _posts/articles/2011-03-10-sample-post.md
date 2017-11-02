@@ -17,9 +17,9 @@ some text
 some text
 some text
 some textsome text
-
 <br>
 <div class="apester-media" data-media-id="59f9ee627b9cb300014d11d1" height="512"></div><script async src="https://static3.apester.com/"></script>
+<br>
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 # Heading 1
