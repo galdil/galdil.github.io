@@ -16,7 +16,7 @@ share: true
 <br>
 Fix responsive media issue
 <br>
-<div class="apester-media" data-media-id="59fae2037b9cb300014d11df" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js?"></script>
+<div class="apester-media" data-media-id="59fae2037b9cb300014d11df" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 some text
 some text
 some text
