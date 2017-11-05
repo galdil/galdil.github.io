@@ -14,9 +14,14 @@ share: true
 ---
 11111111
 <br>
-Fix responsive media issue
+Fix responsive media issue(jsEmbed)
 <br>
 <div class="apester-media" data-media-id="59fae2037b9cb300014d11df" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
+<br>
+Fix responsive media issue(iframe):
+<br>
+<iframe height="512" width="100%" style="display: block !important; height: 512px !important; width: 100% !important; " scrolling="0" frameBorder="0" src="https://renderer.stg.apester.com/interaction/59fae2037b9cb300014d11df"></iframe>
+<br>
 some text
 some text
 some text
