@@ -13,10 +13,19 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 <br>
-<div class="apester-media" data-media-id="59f1b247b755620001064a41" height="388"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+iframe
 <br>
+<iframe height="512" width="100%" style="display: block !important; height: 512px !important; width: 100% !important; " scrolling="0" frameBorder="0" src="https://renderer.pe.apester.com/interaction/5a01a4394843e40001572032"></iframe>
+<br>
+jsEmbed:
+<br>
+<div class="apester-media" data-media-id="5a01a3a54843e4000157202d" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
+<br>
+google amp:
+<br>
+<amp-apester-media data-apester-media-id="5a01a3a54843e4000157202d" height="512"></div>
 The standard Lorem Ipsum passage, used since the 1500s
-
+<br>
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
