@@ -14,7 +14,7 @@ image:
 ---
 jsEmbed:
 <br>
-<div class="apester-media" data-media-id="5a01a3a54843e4000157202d" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
+<div class="apester-media" data-media-id="5a01a3a54843e4000157202d" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
 <br>
 google amp:
 <br>
