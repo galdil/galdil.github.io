@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 ### Why Trump's China visit is the most consequential of his Asia tour
-<img src="blob:http://edition.cnn.com/de4dce5b-a3e8-4a3e-be95-206760b56528">
+<img src="http://img.thedailybeast.com/image/upload/v1502481119/170811-hong-china-tease_hdw5cg.jpg">
 North Korea has called the US criticism of North Korea’s human right record a “blatant challenge and intolerable insult”.
 The North Korean state media article — which appeared in the Workers’ Party newspaper, Rondong Sinmum — also warned the US not to “style itself as a ‘human rights judge’”, describing the US as a “land where racial discrimination, gun-related crimes and all other social crimes prevail”.
 Fix responsive media issue(jsEmbed)
