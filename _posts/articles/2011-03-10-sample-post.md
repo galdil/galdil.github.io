@@ -12,12 +12,17 @@ image:
 comments: true
 share: true
 ---
-11111111
-<br>
+North Korea has called the US criticism of North Korea’s human right record a “blatant challenge and intolerable insult”.
+The North Korean state media article — which appeared in the Workers’ Party newspaper, Rondong Sinmum — also warned the US not to “style itself as a ‘human rights judge’”, describing the US as a “land where racial discrimination, gun-related crimes and all other social crimes prevail”.
 Fix responsive media issue(jsEmbed)
-<br>
+
 <div class="apester-media" data-media-id="59fae2037b9cb300014d11df" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
-<br>
+
+“The U.S. persistent anti-DPRK "human rights" racket based on false information is a blatant challenge and intolerable insult to the dignified DPRK, the best cradle of genuine life for the popular masses in the world. It is also the last-ditch effort to check our advance.
+
+It was the biggest mistake for the Trump group to calculate that their tough sanctions and nuclear threats would make the DPRK step back.”
+
+Though the article may have been written in advance, it was published on the day US President Donald Trump addressed the South Korean National Assembly where he issued a direct warning to North Korean dictator Kim Jong Un, declaring that continued nuclear provocation “would be a fatal miscalculation”
 Fix responsive media issue(iframe):
 <br>
 <iframe height="512" width="100%" style="display: block !important; height: 512px !important; width: 100% !important; " scrolling="0" frameBorder="0" src="https://renderer.stg.apester.com/interaction/59fae2037b9cb300014d11df"></iframe>
