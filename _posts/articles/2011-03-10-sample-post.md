@@ -41,7 +41,9 @@ Fix responsive media issue(iframe):
 
 Still inside the Forbidden City, US President Donald Trump and first lady Melania Trump watched a traditional Peking Opera performance alongside Chinese President Xi Jinping and his wife, Peng Liyuan.
 <br>
-Unlike his trips to Japan and South Korea, which were far more policy focused off the bat, Trump's first hours in China have been spent enjoying the country's culture and history. Peking Opera dates back to the 18th century, analysts said earlier Xi would be 
+Unlike his trips to Japan and South Korea, which were far more policy focused off the bat, Trump's first hours in China have been spent enjoying the country's culture and history. Peking Opera dates back to the 18th century, analysts said earlier Xi would be
+<br>
+<br>
 <img src="https://venezuelanalysis.com/files/images/2017/07/nbc-fires-donald-trump-after-he-calls-mexicans-rapists-and-drug-runners_1.jpg">
 
 ## Trump and Xi watch Peking Opera performance
@@ -52,7 +54,10 @@ Since starting her trip to Asia on Sunday, Trump has spoken publicly once during
 <br>
 Trump has a busy schedule for the remainder of her trip. On Thursday, the Trumps will participate in a welcome ceremony at the Great Hall of the People, then she will attend a spousal program. Later in the day, she will meet and greet Americans at the US Embassy alongside the President, then attend a state dinner and cultural performance. Friday, Trump will have some time to play the role of tourist, visiting a zoo to interact with giant pandas and tour the Great Wall of China before returning to the United States.
 <br>
+<br>
 <img src="http://i2.cdn.cnn.com/cnnnext/dam/assets/170301141317-donald-trump-0228-super-169.jpg">
+<br>
+<br>
 Activist Kim Seong-eun, who heads the Caleb Mission church in Cheonan, South Korea, told CNN on Wednesday 10 North Korean refugees, including a three-year-old boy, were detained in Shenyang in northeast China on Saturday, and called him from jail.
 <div class="apester-media" data-media-id="59f07b10a766360001df8e00" height="600"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 "Recently there has been an increase in arrests of North Koreans in China," he said, adding dozens of defectors had been arrested and deported in recent months.
