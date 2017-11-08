@@ -51,6 +51,7 @@ First lady Melania Trump has arrived in Beijing, the third and final leg of her 
 Since starting her trip to Asia on Sunday, Trump has spoken publicly once during the trip. But she's embraced the role of a gracious guest, accompanying the President to his speeches, state visits and formal dinners, and sitting in the front row for both of his joint press conference appearances.
 <br>
 Trump has a busy schedule for the remainder of her trip. On Thursday, the Trumps will participate in a welcome ceremony at the Great Hall of the People, then she will attend a spousal program. Later in the day, she will meet and greet Americans at the US Embassy alongside the President, then attend a state dinner and cultural performance. Friday, Trump will have some time to play the role of tourist, visiting a zoo to interact with giant pandas and tour the Great Wall of China before returning to the United States.
+<div class="apester-media" data-media-id="59f07b10a766360001df8e00" height="600"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 <br>
 <img src="http://i2.cdn.cnn.com/cnnnext/dam/assets/170301141317-donald-trump-0228-super-169.jpg">
 Activist Kim Seong-eun, who heads the Caleb Mission church in Cheonan, South Korea, told CNN on Wednesday 10 North Korean refugees, including a three-year-old boy, were detained in Shenyang in northeast China on Saturday, and called him from jail.
