@@ -56,5 +56,5 @@ Activist Kim Seong-eun, who heads the Caleb Mission church in Cheonan, South Kor
 "Recently there has been an increase in arrests of North Koreans in China," he said, adding dozens of defectors had been arrested and deported in recent months.
 
 South Korea’s Ministry of Unification told CNN it has yet to confirm Kim's claims. The Ministry said it is doing “all it can diplomatically with the related nations to prevent the deportation of the defectors in whatever circumstances”.
-<div class="apester-media" data-media-id="5a01c81b4843e40001572064" height="585"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<div class="apester-media" data-media-id="5a01c81b4843e40001572064" height="585"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 
