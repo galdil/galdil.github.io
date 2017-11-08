@@ -18,7 +18,9 @@ he race for Virginia governor on Tuesday night wasn't very close. And Republican
 <br>
 In key areas of Virginia Republicanism -- the suburbs of Richmond and the exurbs of Washington, DC -- Republican Ed Gillespie ran far behind recent past GOP gubernatorial nominees and even behind Trump himself.
 <br>
+<br>
 <img src="http://img.thedailybeast.com/image/upload/v1502481119/170811-hong-china-tease_hdw5cg.jpg">
+<br>
 <br>
 North Korea has called the US criticism of North Korea’s human right record a “blatant challenge and intolerable insult”.
 The North Korean state media article — which appeared in the Workers’ Party newspaper, Rondong Sinmum — also warned the US not to “style itself as a ‘human rights judge’”, describing the US as a “land where racial discrimination, gun-related crimes and all other social crimes prevail”.
