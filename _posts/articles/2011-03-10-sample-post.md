@@ -13,9 +13,16 @@ comments: true
 share: true
 ---
 ### Why Trump's China visit is the most consequential of his Asia tour
+<br>
+he race for Virginia governor on Tuesday night wasn't very close. And Republicans have Donald Trump to blame for it.
+<br>
+In key areas of Virginia Republicanism -- the suburbs of Richmond and the exurbs of Washington, DC -- Republican Ed Gillespie ran far behind recent past GOP gubernatorial nominees and even behind Trump himself.
+<br>
 <img src="http://img.thedailybeast.com/image/upload/v1502481119/170811-hong-china-tease_hdw5cg.jpg">
+<br>
 North Korea has called the US criticism of North Korea’s human right record a “blatant challenge and intolerable insult”.
 The North Korean state media article — which appeared in the Workers’ Party newspaper, Rondong Sinmum — also warned the US not to “style itself as a ‘human rights judge’”, describing the US as a “land where racial discrimination, gun-related crimes and all other social crimes prevail”.
+<br>
 Fix responsive media issue(jsEmbed)
 
 <div class="apester-media" data-media-id="59fae2037b9cb300014d11df" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
@@ -25,6 +32,7 @@ Fix responsive media issue(jsEmbed)
 It was the biggest mistake for the Trump group to calculate that their tough sanctions and nuclear threats would make the DPRK step back.”
 <br>
 Though the article may have been written in advance, it was published on the day US President Donald Trump addressed the South Korean National Assembly where he issued a direct warning to North Korean dictator Kim Jong Un, declaring that continued nuclear provocation “would be a fatal miscalculation”
+<br>
 Fix responsive media issue(iframe):
 
 <iframe height="512" width="100%" style="display: block !important; height: 512px !important; width: 100% !important; " scrolling="0" frameBorder="0" src="https://renderer.stg.apester.com/interaction/59fae2037b9cb300014d11df"></iframe>
@@ -32,7 +40,7 @@ Fix responsive media issue(iframe):
 Still inside the Forbidden City, US President Donald Trump and first lady Melania Trump watched a traditional Peking Opera performance alongside Chinese President Xi Jinping and his wife, Peng Liyuan.
 <br>
 Unlike his trips to Japan and South Korea, which were far more policy focused off the bat, Trump's first hours in China have been spent enjoying the country's culture and history. Peking Opera dates back to the 18th century, analysts said earlier Xi would be 
-
+<img src="https://venezuelanalysis.com/files/images/2017/07/nbc-fires-donald-trump-after-he-calls-mexicans-rapists-and-drug-runners_1.jpg">
 
 ## Trump and Xi watch Peking Opera performance
 <br>
@@ -48,3 +56,5 @@ Activist Kim Seong-eun, who heads the Caleb Mission church in Cheonan, South Kor
 "Recently there has been an increase in arrests of North Koreans in China," he said, adding dozens of defectors had been arrested and deported in recent months.
 
 South Korea’s Ministry of Unification told CNN it has yet to confirm Kim's claims. The Ministry said it is doing “all it can diplomatically with the related nations to prevent the deportation of the defectors in whatever circumstances”.
+<div class="apester-media" data-media-id="5a01c81b4843e40001572064" height="585"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+
