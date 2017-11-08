@@ -59,10 +59,8 @@ Trump has a busy schedule for the remainder of her trip. On Thursday, the Trumps
 <br>
 <br>
 Activist Kim Seong-eun, who heads the Caleb Mission church in Cheonan, South Korea, told CNN on Wednesday 10 North Korean refugees, including a three-year-old boy, were detained in Shenyang in northeast China on Saturday, and called him from jail.
-<div class="apester-media" data-media-id="59f07b10a766360001df8e00" height="600"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 "Recently there has been an increase in arrests of North Koreans in China," he said, adding dozens of defectors had been arrested and deported in recent months.
 
 South Korea’s Ministry of Unification told CNN it has yet to confirm Kim's claims. The Ministry said it is doing “all it can diplomatically with the related nations to prevent the deportation of the defectors in whatever circumstances”.
-<div class="apester-media" data-media-id="5a01c81b4843e40001572064" height="585"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 <div class="apester-media" data-media-id="59f6f3287b9cb300014d1144" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 
