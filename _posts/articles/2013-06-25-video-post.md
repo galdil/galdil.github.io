@@ -9,7 +9,7 @@ share: true
 ---
 <br>
 <br>
-<div class="apester-media" data-media-id="5a0c5532f530ab0001475e94" height="350"></div><script async src="http://static3.apester.com"></script>
+<div class="apester-media" data-media-id="5a0c5532f530ab0001475e94" height="350"></div><script async src="https://static3.apester.com"></script>
 <br>
 <br>
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
