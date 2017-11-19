@@ -16,12 +16,19 @@ some text
 
 '''some more text'''
 
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
-###leshno unit:
-<div class="apester-media" data-media-id="5a0b3f4cb9452600010a1f3c" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
-### my unit:
-<div class="apester-media" data-media-id="5a0c455c76cdae000155bfe1" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+### Node 8 Migration
 <br>
+<div class="apester-media" data-media-id="5a0da0a6a979360001579276" height="650"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
+<br>
+<div class="apester-media" data-media-id="5a115a54b3ca81000193b6d1" height="350"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
+<br>
+<div class="apester-media" data-media-id="5a115c5ab3ca81000193b6df" height="534"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
+<br>
+<div class="apester-media" data-media-id="5a115cb2b3ca81000193b6e4" height="388"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
+<br>
+<div class="apester-media" data-media-id="5a115e25b3ca81000193b6e8" height="600"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
+<br>
+<div class="apester-media" data-media-id="59fae2037b9cb300014d11df" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
 ### Pygments Code Blocks
 
 To modify styling and highlight colors edit `/_sass/_pygments.scss`.
