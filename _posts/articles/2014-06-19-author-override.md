@@ -12,13 +12,9 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-jsEmbed:
+### slideshow fullscreen:
 <br>
-<div class="apester-media" data-media-id="5a01a3a54843e4000157202d" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
-<br>
-google amp:
-<br>
-<amp-apester-media data-apester-media-id="5a01a3a54843e4000157202d" height="512"></div>
+<div class="apester-media" data-media-id="5a086ecc0bb0bf000165e1e7" height="338"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
 <br>
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
