@@ -12,7 +12,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-### slideshow fullscreen:
+### slideshow fullscreen iframe:
 <br>
 <iframe height="338" width="100%" style="display: block !important; height: 338px !important; width: 100% !important; " scrolling="0" frameBorder="0" src="https://renderer.pe.apester.com/interaction/5a0454730bb0bf000165df14"></iframe>
 <br>
