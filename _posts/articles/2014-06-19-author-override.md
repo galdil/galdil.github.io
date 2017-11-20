@@ -16,6 +16,10 @@ image:
 <br>
 <iframe height="338" width="100%" style="display: block !important; height: 338px !important; width: 100% !important; " scrolling="0" frameBorder="0" src="https://renderer.pe.apester.com/interaction/5a0454730bb0bf000165df14"></iframe>
 <br>
+### slideshow fullscreen js-embed:
+<br>
+<div class="apester-media" data-media-id="5a086ecc0bb0bf000165e1e7" height="338"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<br>
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
