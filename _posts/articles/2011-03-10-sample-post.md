@@ -23,7 +23,7 @@ After debuting her new blonde do’ at the 2017, AMAs, Selena Gomez jetted home 
 Selena Gomez, 25, recently flew home to Texas, where she grew up, to spend Thanksgiving with her friends and family. She was filmed by a friend, slurping spaghetti on Nov. 21, in an Instagram video [watch below]. So, is Dani, 23, not far behind? — Well, while it’s unknown where the Stern will spend turkey day, it may be a good idea for him to jet off to Texas. As you may know, Selena’s family aren’t exactly his biggest fans after watching Jelena’s past relationship woes. Sel ended up broken hearted after they split in late 2015, when Justin had a bit of a reckless period in his life. Therefore, Selena isn’t the only one Justin needs to completely win over; although he’s pretty much marked Sel off his list.
 <br>
 <br>
-<img src="http://img.thedailybeast.com/image/upload/v1502481119/170811-hong-china-tease_hdw5cg.jpg">
+<img src="https://i.ytimg.com/vi/EgT_us6AsDg/maxresdefault.jpg">
 <br>
 <br>
 North Korea has called the US criticism of North Korea’s human right record a “blatant challenge and intolerable insult”.
