@@ -38,10 +38,6 @@ Fix responsive media issue(jsEmbed)
 It was the biggest mistake for the Trump group to calculate that their tough sanctions and nuclear threats would make the DPRK step back.”
 <br>
 Though the article may have been written in advance, it was published on the day US President Donald Trump addressed the South Korean National Assembly where he issued a direct warning to North Korean dictator Kim Jong Un, declaring that continued nuclear provocation “would be a fatal miscalculation”
-<br>
-Fix responsive media issue(iframe):
-
-<iframe height="512" width="100%" style="display: block !important; height: 512px !important; width: 100% !important; " scrolling="0" frameBorder="0" src="https://renderer.stg.apester.com/interaction/59fae2037b9cb300014d11df"></iframe>
 
 Still inside the Forbidden City, US President Donald Trump and first lady Melania Trump watched a traditional Peking Opera performance alongside Chinese President Xi Jinping and his wife, Peng Liyuan.
 <br>
@@ -66,5 +62,4 @@ Activist Kim Seong-eun, who heads the Caleb Mission church in Cheonan, South Kor
 "Recently there has been an increase in arrests of North Koreans in China," he said, adding dozens of defectors had been arrested and deported in recent months.
 
 South Korea’s Ministry of Unification told CNN it has yet to confirm Kim's claims. The Ministry said it is doing “all it can diplomatically with the related nations to prevent the deportation of the defectors in whatever circumstances”.
-<div class="apester-media" data-media-id="59f6f3287b9cb300014d1144" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 
