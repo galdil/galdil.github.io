@@ -15,7 +15,7 @@ image:
 ### slideshow fullscreen js-embed:
 <br>
 ## story from production:<br>
-<div class="apester-media" data-media-id="5a1437d7ec1aac0001b9a078" height="388"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
+<div class="apester-media" data-media-id="5a16bc054602d90001c2497f" height="388"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
 <br>
 <div class="apester-media" data-media-id="5a144dbdec1aac0001b9a082" height="350"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
 <br>
