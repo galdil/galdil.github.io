@@ -12,11 +12,15 @@ image:
 comments: true
 share: true
 ---
-### Why Trump's China visit is the most consequential of his Asia tour
+### Selena Gomez Spotted At Home In Texas: Will Dani Stern Join Her For Thanksgiving?
 <br>
-he race for Virginia governor on Tuesday night wasn't very close. And Republicans have Donald Trump to blame for it.
+After debuting her new blonde do’ at the 2017, AMAs, Selena Gomez jetted home to her native, Texas for Thanksgiving! Is Dani heading to the Lone Star state to make mends with her family?
 <br>
-In key areas of Virginia Republicanism -- the suburbs of Richmond and the exurbs of Washington, DC -- Republican Ed Gillespie ran far behind recent past GOP gubernatorial nominees and even behind Trump himself.
+<br>
+<div class="apester-media" data-media-id="5a1697e55b8f560001dba0ef" height="338"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<br>
+<br>
+Selena Gomez, 25, recently flew home to Texas, where she grew up, to spend Thanksgiving with her friends and family. She was filmed by a friend, slurping spaghetti on Nov. 21, in an Instagram video [watch below]. So, is Dani, 23, not far behind? — Well, while it’s unknown where the Stern will spend turkey day, it may be a good idea for him to jet off to Texas. As you may know, Selena’s family aren’t exactly his biggest fans after watching Jelena’s past relationship woes. Sel ended up broken hearted after they split in late 2015, when Justin had a bit of a reckless period in his life. Therefore, Selena isn’t the only one Justin needs to completely win over; although he’s pretty much marked Sel off his list.
 <br>
 <br>
 <img src="http://img.thedailybeast.com/image/upload/v1502481119/170811-hong-china-tease_hdw5cg.jpg">
