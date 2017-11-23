@@ -29,10 +29,6 @@ Selena Gomez, 25, recently flew home to Texas, where she grew up, to spend Thank
 North Korea has called the US criticism of North Korea’s human right record a “blatant challenge and intolerable insult”.
 The North Korean state media article — which appeared in the Workers’ Party newspaper, Rondong Sinmum — also warned the US not to “style itself as a ‘human rights judge’”, describing the US as a “land where racial discrimination, gun-related crimes and all other social crimes prevail”.
 <br>
-Fix responsive media issue(jsEmbed)
-
-<div class="apester-media" data-media-id="59fae2037b9cb300014d11df" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
-
 “The U.S. persistent anti-DPRK "human rights" racket based on false information is a blatant challenge and intolerable insult to the dignified DPRK, the best cradle of genuine life for the popular masses in the world. It is also the last-ditch effort to check our advance.
 <br>
 It was the biggest mistake for the Trump group to calculate that their tough sanctions and nuclear threats would make the DPRK step back.”
