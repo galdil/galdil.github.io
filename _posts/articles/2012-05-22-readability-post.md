@@ -12,21 +12,12 @@ image:
 comments: true
 share: true
 ---
-
-## slideshow from production:
 <br>
-<div class="apester-media" data-media-id="5a1697e55b8f560001dba0ef" height="338"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
 <br>
-## canvas from production:
+<div class="apester-media" data-media-id="5a1aba71e14c3e0001e9f4b4" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
 <br>
-<div class="apester-media" data-media-id="5a05c68a83401e0001a3f7de" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<div class="apester-media" data-media-id="5a1c132ad749e4000108f3f9" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
 <br>
-## story from production:
-<br>
-<div class="apester-media" data-media-id="59805302a8bfa9a67e4e0784" height="600"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
-<br>
-## poll from production:
-<div class="apester-media" data-media-id="5a1a8be7cf5c6d0001ede5cc" height="600"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
 <br>
 
 ***==============================***<br>
