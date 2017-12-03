@@ -12,18 +12,6 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-### slideshow fullscreen js-embed renderer-pe:
-<br>
-<div class="apester-media" data-media-id="5a16bc054602d90001c2497f" height="388"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
-<br>
-## poll with video bg renderer-pe:<br>
-<br>
-<div class="apester-media" data-media-id="5a144dbdec1aac0001b9a082" height="350"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
-<br>
-## free-hand story renderer-pe
-<br>
-<div class="apester-media" data-media-id="5a1420deec1aac0001b9a062" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
-<br>
 ## Article renderer-pe
 <br>
 <div class="apester-media" data-media-id="5a1ed2d323d6e60001b24c56" height="600"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
