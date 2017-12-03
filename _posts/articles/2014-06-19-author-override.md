@@ -26,7 +26,7 @@ image:
 <br>
 ## Article renderer-pe
 <br>
-<div class="apester-media" data-media-id="5a153df9ec1aac0001b9a08d" height="600"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
+<div class="apester-media" data-media-id="5a1ed2d323d6e60001b24c56" height="600"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
 <br>
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
