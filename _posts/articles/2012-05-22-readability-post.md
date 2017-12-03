@@ -14,9 +14,7 @@ share: true
 ---
 <br>
 <br>
-<div class="apester-media" data-media-id="5a1aba71e14c3e0001e9f4b4" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5a1c132ad749e4000108f3f9" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<div class="apester-media" data-media-id="5a23e09be5636b0001971ba7" height="350"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
 <br>
 <br>
 
