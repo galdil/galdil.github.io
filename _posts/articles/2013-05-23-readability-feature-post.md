@@ -13,5 +13,5 @@ comments: true
 share: true
 ---
 <br>
-<interaction data-token=“58c932ffa697a30e00d50d65” data-context=“true” data-tags=“” data-fallback=“true” data-channel-id=“54c8d8cd1a6f9a0271b4227c”></interaction>
+<interaction data-token=“58c932ffa697a30e00d50d65” data-context=“true” data-tags=“” data-fallback=“true”></interaction>
 <br>
