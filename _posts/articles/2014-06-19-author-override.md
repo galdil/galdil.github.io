@@ -13,32 +13,11 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-## 1 Question Poll/quiz/perso
+## Taylor & Kim's Similar Style - Watch Now 
 <br>
-<div class="apester-media" data-media-id="5a326d499f9ab80001ae1011" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
+<div class="apester-media" data-media-id="5a328b694c06170001d1945f" height="338"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
 <br>
-<br>
-<div class="apester-media" data-media-id="5a326f929f9ab80001ae1013" height="350"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
-<br>
-<br>
-<div class="apester-media" data-media-id="5a326fe69f9ab80001ae1015" height="350"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
-<br>
-<br>
-<div class="apester-media" data-media-id="5a3270349f9ab80001ae1017" height="352"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5a32708e9f9ab80001ae1019" height="416"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
-## Free-hand story renderer-stg
-<br>
-<div class="apester-media" data-media-id="5a256141975cbd00012a7421" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5a254ea1975cbd00012a73fb" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
-<br>
-## free-hand renderer PE
-<br>
-<br>
-<div class="apester-media" data-media-id="5a28263887ffa90001f73cb4" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
-<br>
-<br>
+
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
