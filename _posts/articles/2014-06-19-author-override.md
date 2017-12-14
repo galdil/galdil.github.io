@@ -13,12 +13,20 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-## 1 Question Poll
+## 1 Question Poll/quiz/perso
 <br>
 <div class="apester-media" data-media-id="5a326d499f9ab80001ae1011" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
-
 <br>
-
+<br>
+<div class="apester-media" data-media-id="5a326f929f9ab80001ae1013" height="350"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
+<br>
+<br>
+<div class="apester-media" data-media-id="5a326fe69f9ab80001ae1015" height="350"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
+<br>
+<br>
+<div class="apester-media" data-media-id="5a3270349f9ab80001ae1017" height="352"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
+<br>
+<div class="apester-media" data-media-id="5a32708e9f9ab80001ae1019" height="416"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 ## Free-hand story renderer-stg
 <br>
 <div class="apester-media" data-media-id="5a256141975cbd00012a7421" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
