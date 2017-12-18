@@ -16,7 +16,7 @@ share: true
 <br>
 After debuting her new blonde do’ at the 2017, AMAs, Selena Gomez jetted home to her native, Texas for Thanksgiving! Is Dani heading to the Lone Star state to make mends with her family?
 <br>
-### FROM PRODUCTION
+### FREE-HAND STORY WITH INTERACTIVE COMPONENT FROM PRODUCTION
 <br>
 <div class="apester-media" data-media-id="5a37e6c0e29f7a00016d9e43" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
 <br>
