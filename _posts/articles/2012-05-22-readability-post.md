@@ -15,9 +15,9 @@ share: true
 <br>
 ### from stg with new sdk
 <br>
-<div class="apester-media" data-media-id="5a48ce0132bf270001284512" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
+<div class="apester-media" data-media-id="5a255bf16064ab0001dc79f2" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 <br>
-<div class="apester-media" data-media-id="5a48ce2b32bf270001284514" height="350"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
+<div class="apester-media" data-media-id="5a281cc087ffa90001f73ca3" height="350"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 <br>
 
 ***==============================***<br>
