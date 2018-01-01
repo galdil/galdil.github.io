@@ -14,8 +14,6 @@ share: true
 ---
 ### from pe:
 <br>
-<div class="apester-media" data-media-id="5a48ce0132bf270001284512" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
-<br>
 <div class="apester-media" id="small-div-for-test" data-media-id="5a281cc087ffa90001f73ca3" height="408"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
 ## small div
 <div class="apester-media" id="small-div-for-test" data-media-id="5a48ce0132bf270001284512" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
