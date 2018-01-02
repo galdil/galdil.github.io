@@ -25,7 +25,7 @@ share: true
 <br>
 
 ## inside 600x600 Div
-<div style="height: 600px; width: 600px;">
+<div style="height: 600px; width: 600px; margin: 0 auto;">
 <div class="apester-media" data-media-id="5a2693cc87ffa90001f73c46" style=""></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
 </div>
 <br>
