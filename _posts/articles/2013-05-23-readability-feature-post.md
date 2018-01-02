@@ -30,6 +30,12 @@ share: true
 </div>
 <br>
 
+## inside 400x400 Div
+<div style="height: 400px; width: 400px; margin: 0 auto;">
+<div class="apester-media" data-media-id="5a48ce0132bf270001284512" style=""></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
+</div>
+<br>
+
 
 
 
