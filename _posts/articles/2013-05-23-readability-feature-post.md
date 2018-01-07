@@ -12,9 +12,6 @@ image:
 comments: true
 share: true
 ---
-### test units inside different div sizes and types
-<br>
-<br>
 ## Small div
 <div class="apester-media" id="small-div-for-test" data-media-id="5a48ce0132bf270001284512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
 <br>
