@@ -19,7 +19,7 @@ share: true
 ## Normal:
 <div class="apester-media" data-media-id="5a48ce0132bf270001284512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
 <br>
-### poll unit:
+### poll unit (STG):
 <br>
 <div class="apester-media" data-media-id="5a281cc087ffa90001f73ca3" height="600"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
 <br>
