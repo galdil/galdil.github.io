@@ -12,7 +12,7 @@ image:
 comments: true
 share: true
 ---
-### poll unit (STG):
+### poll unit (PE):
 <br>
 <div class="apester-media" data-media-id="5a281cc087ffa90001f73ca3" height="600"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
 <br>
