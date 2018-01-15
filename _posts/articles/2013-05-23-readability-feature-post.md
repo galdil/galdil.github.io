@@ -18,7 +18,7 @@ share: true
 <br>
 ### Free-hand story with feed(Production):
 <br>
-<div class="apester-media" data-media-id="5a5b41cb04028500011250d3" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<div class="apester-media" id="small-div-for-test" data-media-id="5a5b41cb04028500011250d3"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
 <br>
 ### Poll with feed(Production)
 <br>
