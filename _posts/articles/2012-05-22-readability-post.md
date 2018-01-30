@@ -13,11 +13,9 @@ comments: true
 share: true
 ---
 <br>
-### from stg with new sdk
+### from production
 <br>
-<div class="apester-media" data-media-id="5a255bf16064ab0001dc79f2" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5a281cc087ffa90001f73ca3" height="350"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/core.min.js"></script>
+<div class="apester-media" data-media-id="5a708703f0e812000175946b" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
 <br>
 
 ***==============================***<br>
