@@ -18,9 +18,9 @@ After debuting her new blonde do’ at the 2017, AMAs, Selena Gomez jetted home 
 <br>
 ### FREE-HAND STORY WITH INTERACTIVE COMPONENT FROM PE
 <br>
-<div class="apester-media" data-media-id="5a40f07112afd5000155a3f0" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
+<div class="apester-media" data-media-id="5a40f07112afd5000155a3f0" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/pe/core.min.js"></script>
 <br>
-<div class="apester-media" data-media-id="5a3baf6bf912180001493bc1" height="512"></div><script async src="https://storage.googleapis.com/apester-staging/sdk/pe/core.min.js"></script>
+<div class="apester-media" data-media-id="5a3baf6bf912180001493bc1" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/pe/core.min.js"></script>
 <br>
 Selena Gomez, 25, recently flew home to Texas, where she grew up, to spend Thanksgiving with her friends and family. She was filmed by a friend, slurping spaghetti on Nov. 21, in an Instagram video [watch below]. So, is Dani, 23, not far behind? — Well, while it’s unknown where the Stern will spend turkey day, it may be a good idea for him to jet off to Texas. As you may know, Selena’s family aren’t exactly his biggest fans after watching Jelena’s past relationship woes. Sel ended up broken hearted after they split in late 2015, when Justin had a bit of a reckless period in his life. Therefore, Selena isn’t the only one Justin needs to completely win over; although he’s pretty much marked Sel off his list.
 <br>
