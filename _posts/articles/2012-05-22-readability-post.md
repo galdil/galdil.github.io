@@ -15,7 +15,7 @@ share: true
 <br>
 ### from production
 <br>
-<div class="apester-media" data-media-id="5a708703f0e812000175946b" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<div class="apester-media" data-media-id="5a8951903704a20001f9be7b" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
 <br>
 
 ***==============================***<br>
