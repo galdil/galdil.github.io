@@ -13,9 +13,11 @@ comments: true
 share: true
 ---
 <br>
-### from production
+### Sound and video autoplay - (staging)
 <br>
 <div class="apester-media" data-media-id="5a8951903704a20001f9be7b" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
+<br>
+<div class="apester-media" data-media-id="5a8951f13704a20001f9be7c" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
 <br>
 
 ***==============================***<br>
