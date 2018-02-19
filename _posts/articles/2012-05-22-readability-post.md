@@ -15,11 +15,8 @@ share: true
 <br>
 ### Sound and video autoplay - (staging)
 <br>
-<div class="apester-media" data-media-id="5a8951903704a20001f9be7b" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
+<div class="apester-media" data-media-id="5a8aefe43704a20001f9bf18" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
 <br>
-<div class="apester-media" data-media-id="5a8951f13704a20001f9be7c" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
-<br>
-
 ***==============================***<br>
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
