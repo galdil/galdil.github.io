@@ -7,8 +7,5 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
-<!--<br>
+
 <div class="apester-media" data-media-id="5a5375cfa11df50001fa00a4" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
--->
-<br>
-<div class="apester-media" data-media-id="5a8ecc7487638c0001933ae4" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
