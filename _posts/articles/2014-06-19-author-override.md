@@ -17,7 +17,6 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 <br>
 <br>
-<div class="apester-media" data-media-id="5a9d417a98ecc644f68c46f2" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/pe/core.min.js"></script>
+<div class="apester-media" data-media-id="5acb4e7d666ef663f20a53ed" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/pe/core.min.js"></script>
 <br>
-<div class="apester-media" data-media-id="5aa502ef98ecc685bd8c4720" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/pe/core.min.js"></script>
 
