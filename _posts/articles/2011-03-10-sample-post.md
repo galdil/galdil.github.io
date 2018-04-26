@@ -13,4 +13,4 @@ comments: true
 share: true
 ---
 <br>
-<div class="apester-media" data-media-id="5ab27973ad1ff7836a731a02" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script><br>
+<div class="apester-media" data-media-id="5ae1bd8985c82147648cc331" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
