@@ -7,5 +7,6 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
+###   video autoplay with sound
 
-<div class="apester-media" data-media-id="5aae6908ef52af3aba88dd2a" height="338"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<div class="apester-media" data-media-id="5ae20f9085c8212f768cc34b" height="338"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
