@@ -7,7 +7,11 @@ tags: [sample-post, images, test]
 comments: true
 share: true
 ---
-
+<br>
+### font load on stg (post change)
+<br>
+<div class="apester-media" data-media-id="5af01fab041019568629c4f9" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
+<br>
 ## Figures (for images or video)
 
 ### One Up
