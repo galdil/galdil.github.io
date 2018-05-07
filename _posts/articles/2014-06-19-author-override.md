@@ -7,11 +7,6 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
-<br>
-### font load on stg (post change)
-<br>
-<div class="apester-media" data-media-id="5af01fab041019568629c4f9" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
-<br>
 ### font load on production (before change)
 <br>
 <div class="apester-media" data-media-id="5af024358fcced7b6059c549" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
