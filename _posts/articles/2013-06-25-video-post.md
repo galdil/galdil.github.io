@@ -7,6 +7,8 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
-###   video autoplay with sound
+###   font load on production
 
-<div class="apester-media" data-media-id="5ae20f9085c8212f768cc34b" height="338"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
+<br>
+<div class="apester-media" data-media-id="5af168ca69f1ea1c186f63e4" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<br>
