@@ -15,7 +15,7 @@ share: true
     overflow: hidden;
     padding-bottom: 8700px;
 ">
-    <iframe name="https://www.bundesligawebsite.com/" style="
+    <iframe src="https://www.bundesligawebsite.com/" style="
     position: absolute;
     top: 0;
     left: 0;
