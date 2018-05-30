@@ -8,7 +8,5 @@ comments: true
 share: true
 ---
 <br>
-<div class="apester-media" data-inative="true" data-media-id="59edf309495c63010042f2ee" data-campaign-id="5b0423b050c795dcc3739883" data-channel-id="59edf309495c63010042f2ee" style="display: block !important;"></div>
-<script async src="https://static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
-
-<div class="apester-media" data-inative="true" data-media-id="59edf309495c63010042f2ee" data-campaign-id="5b0423b050c795dcc3739883" data-channel-id="59edf309495c63010042f2ee"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Our turn is coming</p>&mdash; Rudy Gobert (@rudygobert27) <a href="https://twitter.com/rudygobert27/status/1001380406309150720?ref_src=twsrc%5Etfw">May 29, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
