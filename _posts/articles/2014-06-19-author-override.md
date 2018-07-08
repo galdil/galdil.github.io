@@ -8,6 +8,5 @@ comments: true
 share: true
 ---
 ### this is new unit
-<div style="width:300px;"> </div>
 <div class="apester-media" data-media-id="5b41d141958e575b97d7cfd4" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
 
