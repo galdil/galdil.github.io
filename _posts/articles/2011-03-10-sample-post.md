@@ -12,5 +12,5 @@ image:
 comments: true
 share: true
 ---
-### Utility card test
-<div class="apester-media" data-media-id="5b1e60c3ed4c53f30486409c" height="441"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+### New Player
+<div class="apester-media" data-media-id="5b4b44f687b2e06537a1bcfc" height="512"></div><script async src="//sdk.stg.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
