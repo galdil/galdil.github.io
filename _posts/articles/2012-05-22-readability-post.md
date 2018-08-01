@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 <br>
-<div class="apester-media" data-media-id="5b0edc2ede38611985545a00" height="419"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-random="5b0eab06039e4700010c5443" tags="labour,labour party,lambeth council,green party,conservatives"></div>
 <br>
 
 
