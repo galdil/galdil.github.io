@@ -13,17 +13,8 @@ comments: true
 share: true
 ---
 <br>
-<div class="apester-media" data-media-id="5b1540731c4d2e892d8eb993" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/pe/core.min.js"></script>
+<div class="apester-media" data-media-id="5b0edc2ede38611985545a00" height="419"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
-<div class="apester-media" data-media-id="5b15403b1c4d2e2ba48eb990" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/pe/core.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5b15422d1c4d2e6f168eb998" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/pe/core.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5b1542741c4d2eb1938eb999" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/pe/core.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5b1542b91c4d2e730a8eb99a" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/pe/core.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5b1543171c4d2e22278eb99b" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/pe/core.min.js"></script>
 
 
 
