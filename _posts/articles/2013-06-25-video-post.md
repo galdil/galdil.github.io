@@ -7,8 +7,9 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
-###   font load on production
+###   new player prod
 
 <br>
-<div class="apester-media" data-media-id="5af168ca69f1ea1c186f63e4" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
-<br>
+<div class="apester-media" data-media-id="5b4cc87a96df425d0cb00521" data-player="true"
+ height="512"></div><script async src=“https://static.apester.com/js/sdk/latest/apester-javascript-sdk.min.js“></script>
+ <br>
