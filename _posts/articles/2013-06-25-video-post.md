@@ -11,5 +11,5 @@ share: true
 
 <br>
 <div class="apester-media" data-media-id="5b4cc87a96df425d0cb00521" data-player="true"
- height="512"></div><script async src=“https://static.apester.com/js/sdk/latest/apester-javascript-sdk.min.js“></script>
+ height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-javascript-sdk.min.js"></script>
  <br>
