@@ -7,15 +7,12 @@ tags: [sample-post, images, test]
 comments: true
 share: true
 ---
-<br>
-### font load on stg (post change)
-<br>
-<div class="apester-media" data-media-id="5af01fab041019568629c4f9" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/core.min.js"></script>
-<br>
 ## Figures (for images or video)
 
 ### One Up
-
+<br>
+<div class="apester-media" data-media-id="5b9920f3a72158cc6d344ba9" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
 <figure>
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt="image"></a>
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
