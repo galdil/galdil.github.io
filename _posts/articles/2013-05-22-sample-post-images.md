@@ -17,6 +17,10 @@ share: true
 <br>
 <div class="apester-media" data-media-id="5b9f9844a721580649344cba" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
+### story new player
+<br>
+<div class="apester-media" data-media-id="5b9f9d15a72158685d344cc6" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
 <figure>
 
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt="image"></a>
