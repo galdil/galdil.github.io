@@ -11,15 +11,15 @@ share: true
 
 ### Poll new player
 <br>
-<div class="apester-media" data-media-id="5b9f98afa7215844b0344cbf" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5ba3add7a7215877b9344d0c" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### quiz new player
 <br>
-<div class="apester-media" data-media-id="5b9f9844a721580649344cba" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5ba3ae7aa721586562344d13" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### story new player
 <br>
-<div class="apester-media" data-media-id="5b9f9d15a72158685d344cc6" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5ba3aecea7215861de344d14" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <figure>
 
