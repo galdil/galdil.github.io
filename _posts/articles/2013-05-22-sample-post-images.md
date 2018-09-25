@@ -15,7 +15,7 @@ share: true
 <br>
 ### quiz new player
 <br>
-<div class="apester-media" data-media-id="5ba3ae7aa721586562344d13" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5baa2c53d7a74ce6db226feb" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### story new player
 <br>
