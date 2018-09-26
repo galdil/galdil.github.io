@@ -13,4 +13,4 @@ comments: true
 share: true
 ---
 ### New Player
-<div class="apester-media" data-media-id="5ba3add7a7215877b9344d0c" height="650"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5ba3add7a7215877b9344d0c" height="650"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
