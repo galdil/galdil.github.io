@@ -7,6 +7,5 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
-###   new player prod
-<div class="apester-media" data-media-id="5b9f691ed4b9a963f76fb9d8" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-
+### prod
+<div class="apester-media" data-media-id="5bab81979426af827e217ca4" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
