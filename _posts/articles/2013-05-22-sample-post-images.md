@@ -11,7 +11,7 @@ share: true
 
 ### Poll new player
 <br>
-<div class="apester-media" data-media-id="5bab961e8d7d0f371b3de6aa" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5bb4ca281b6185fdba9459d1" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### small size Poll new player
 <br>
