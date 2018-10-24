@@ -18,15 +18,7 @@ some text
 
 ### feed and playlist from prod123213213:
 <br>
-<div class="apester-media" data-media-id="5a48cffcc670a50001bc6b62" height="350"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5a48d0229efd7a000129b745" height="600"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5a4a2e4fc45e840001f8bda5" height="512"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5a4a2f5b2b9bae00016e9d38" height="350"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
-<br>
-<div class="apester-media" data-media-id="5a4a2fc7980a08000154fbab" height="404"></div><script async src="//static.apester.com/js/sdk/v2.0/apester-javascript-sdk.min.js"></script>
+<div class="apester-strip" data-channel-tokens="5af48c9888a0670001740883"></div>
 <br>
 ### Pygments Code Blocks
 
