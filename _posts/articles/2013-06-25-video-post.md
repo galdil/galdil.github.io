@@ -7,5 +7,5 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
-### prod
-<div class="apester-media" data-media-id="5bab81979426af827e217ca4" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+### Story - New player external css over-ride test
+<div class="apester-media" data-media-id="5bcf2714916629008aa6f0e9" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
