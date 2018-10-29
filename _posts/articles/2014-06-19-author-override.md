@@ -7,6 +7,10 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
-### this is new unit
-<!-- <interaction data-token="59256f89b9ee7543540027e2" data-context="true" data-tags="" data-fallback="false"></interaction> -->
-<div class="apester-media" data-token="587f5786d9ee87243ca6b8e2" data-context="true" data-tags="" data-fallback="false" height="350"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-javascript-sdk.min.js"></script>
+### production - New Player
+<br>
+<div class="apester-media" data-media-id="5bd72ad6ff6e290ec2e1bd9d" height="650"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+<div class="apester-media" data-media-id="5bd72b8c82434ba2565d94cc" height="458"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+<div class="apester-media" data-media-id="5bd72bfa3f7d4423ef6caff9" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
