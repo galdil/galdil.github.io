@@ -16,10 +16,11 @@ some text
 
 '''some more text'''
 
-### feed and playlist from prod123213213:
+### old renderer:
 <br>
-<div class="apester-strip" data-channel-tokens="5af48c9888a0670001740883"></div>
+<div class="apester-media" data-media-id="5bd5e4deff4e55a802e2369d" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
+<div class="apester-media" data-media-id="5bd5e3b5ff4e55ab32e23692" height="600"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 ### Pygments Code Blocks
 
 To modify styling and highlight colors edit `/_sass/_pygments.scss`.
