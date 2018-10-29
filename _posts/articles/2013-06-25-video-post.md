@@ -8,10 +8,10 @@ comments: true
 share: true
 ---
 ### Story - New player external css over-ride test
-<div class="apester-media" data-media-id="5bcc9a865ce78e8a370cba30" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-javascript-sdk.min.js"></script>
+<div class="apester-media" data-media-id="5bcc9a865ce78e8a370cba30" data-player="true" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/stg/core.min.js"></script>
 <br>
 <br>
-<div class="apester-media" data-media-id="5bc73835c6388c24fdf82441" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-javascript-sdk.min.js"></script>
+<div class="apester-media" data-media-id="5bc73835c6388c24fdf82441" data-player="true" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/stg/core.min.js"></script>
 <br>
 <br>
-<div class="apester-media" data-media-id="5ba3ae7aa721586562344d13" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-javascript-sdk.min.js"></script>
+<div class="apester-media" data-media-id="5ba3ae7aa721586562344d13" data-player="true" height="512"></div><script async src="https://storage.googleapis.com/apester-stg/sdk/stg/core.min.js"></script>
