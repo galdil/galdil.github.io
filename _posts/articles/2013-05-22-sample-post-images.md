@@ -23,7 +23,7 @@ share: true
 <br>
 ### story new player
 <br>
-<div class="apester-media" data-media-id="5bb9cdfbf185fd7d9dc87cbe" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5bb9cdfbf185fd7d9dc87cbe" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### personality old player
 <div class="apester-media" data-media-id="5bdb24c70a28a10dc9d4b444" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
