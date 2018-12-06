@@ -21,10 +21,7 @@ Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater u
 ## Cupidatat 90's lo-fi authentic try-hard
 
 In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's. 
-### Poll new player
-<br>
-<div class="apester-media" data-media-id="5bb9cc4af185fdc839c87cb4" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
+
 * Sartorial hoodie 
 * Labore viral forage
 * Tote bag selvage 
