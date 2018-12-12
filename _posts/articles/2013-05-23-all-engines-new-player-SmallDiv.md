@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "readability-feature-post"
+title: "all-engines-new-player-SmallDiv"
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 categories: articles
 tags: [sample-post, readability]
