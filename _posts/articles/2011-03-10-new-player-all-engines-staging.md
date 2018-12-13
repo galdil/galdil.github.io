@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sample-post"
+title: "New Player All Engines - staging"
 excerpt: "gal tubi bla bla bla"
 modified: 2017-09-26
 categories: articles
