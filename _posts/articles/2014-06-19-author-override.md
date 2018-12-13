@@ -9,8 +9,6 @@ share: true
 ---
 ### production - New Player
 <br>
-<div class="apester-media" data-media-id="5bd72ad6ff6e290ec2e1bd9d" height="650"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5c0d2a616c97ee1c42f35d05" height="964"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
-<div class="apester-media" data-media-id="5bd72b8c82434ba2565d94cc" height="458"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
-<div class="apester-media" data-media-id="5bd72bfa3f7d4423ef6caff9" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+
