@@ -14,6 +14,20 @@ share: true
 ---
 ### New Player
 <br>
-<div class="apester-media" data-media-id="5c28a1be50bcd535c87b34b5" height="350"></div>
-<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5c28a38bb183762ce69fddaf" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
+<div class="apester-media" data-media-id="5c28a4231769cd539210c922" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+<div class="apester-media" data-media-id="5c28a1be50bcd535c87b34b5" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+<div class="apester-media" data-media-id="5c28a4c88f833d7b93ea7455" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+<div class="apester-media" data-media-id="5c28a5801769cdb05010c923" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+
+
+
+
+
+
+
