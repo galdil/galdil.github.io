@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "strip-stage"
-excerpt: "boaz boch is a child molester"
+excerpt: "strip-stage"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
