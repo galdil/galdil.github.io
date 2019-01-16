@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "strip-production"
-excerpt: "boaz boch is a child molester"
+excerpt: "strip-prod"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
