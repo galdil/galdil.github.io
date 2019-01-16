@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "readability-post"
-excerpt: "boaz boch is a child molester"
+excerpt: "readability-post"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
