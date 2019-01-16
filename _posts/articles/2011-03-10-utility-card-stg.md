@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "utility-card-stg"
-excerpt: "boaz boch is a child molester"
+excerpt: "utility-card-stg"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
