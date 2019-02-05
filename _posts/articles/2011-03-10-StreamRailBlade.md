@@ -19,9 +19,6 @@ In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardso
 * Labore viral forage
 * Tote bag selvage 
 * DIY exercitation et id ugh tumblr church-key
-<br>
-<div class="apester-media" data-media-id="5c3e1b44c14cd87f852a14eb" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script><br>
-<br>
 Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
 
 Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
