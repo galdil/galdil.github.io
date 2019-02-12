@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "utility-card"
-excerpt: "utility-card"
+title: "utility-card-prod"
+excerpt: "utility-card-prod"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
