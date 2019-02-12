@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cedato-stg"
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: "Cedato-stg"
 categories: articles
 tags: [sample-post, video]
 comments: true
