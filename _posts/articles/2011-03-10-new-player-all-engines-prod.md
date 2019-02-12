@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "New Player All Engines - Production"
-excerpt: "gal tubi bla bla bla"
+title: "New Player All Engines - prod"
+excerpt: "New Player All Engines - prod"
 modified: 2017-09-26
 categories: articles
 tags: [sample-post]
