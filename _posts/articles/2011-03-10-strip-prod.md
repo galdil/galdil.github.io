@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "strip-production"
+title: "strip-prod"
 excerpt: "strip-prod"
 modified: 2017-09-26
 categories: articles
