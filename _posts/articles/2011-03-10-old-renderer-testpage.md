@@ -12,4 +12,6 @@ src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 
 <br>
 <br>
+<iframe frameborder="0" allowtransparency="true" scrolling="no" class="apester-fill-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iFpsAfNvUkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</iframe>
