@@ -10,5 +10,5 @@ share: true
 <br>
 ### Playlist production
 <br>
-<div class="apester-media" data-token="5c62dbd8019e514a761a1ddf" data-context="true" data-tags="" data-fallback="true" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-token="5c7ba1e7ff6c231547157800" data-context="true" data-tags="" data-fallback="true" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
