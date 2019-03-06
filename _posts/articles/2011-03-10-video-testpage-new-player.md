@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "old-renderer-testpage"
-excerpt: "old-renderer-testpage"
+title: "video-testpage-new-player"
+excerpt: "video-testpage-new-player"
 categories: articles
 tags: [sample-post, video]
 comments: true
@@ -18,7 +18,4 @@ src="https://storage.googleapis.com/apester-stg/sdk/stg/apester-sdk.js"></script
 src="https://storage.googleapis.com/apester-stg/sdk/stg/apester-sdk.js"></script>
 -->
 <br>
-### old renderer
 
-<div class="apester-media" data-media-id="5c7f8ecf2268dc0626251ec2" height="388"></div><script async
-src="https://storage.googleapis.com/apester-stg/sdk/stg/apester-sdk.js"></script>
