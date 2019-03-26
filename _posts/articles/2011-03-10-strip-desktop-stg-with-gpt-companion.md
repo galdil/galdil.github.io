@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-desktop-stg"
-excerpt: "strip-desktop-stg"
+title: "strip-desktop-stg-with-gpt-companion"
+excerpt: "strip-desktop-stg-with-gpt-companion"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
