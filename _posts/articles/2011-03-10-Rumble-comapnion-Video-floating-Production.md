@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hiro-comapnion-Video-Production"
-excerpt: "Hiro-comapnion-Video-Production"
+title: "Rumble-comapnion-Video-floating-Production"
+excerpt: "Rumble-comapnion-Video-floating-Production"
 categories: articles
 tags: [sample-post, video]
 comments: true
