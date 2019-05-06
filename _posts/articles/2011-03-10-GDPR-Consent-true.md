@@ -9,8 +9,10 @@ share: true
 ---
 <head>
 <script>
-setTimeout(function(){ alert("Hello"); }, 3000);
-</script>
+function refreshDataWithRandomDelay() {
+    setTimeout(refreshData, 5000);
+}
+document.addEventListener("load", refreshDataWithRandomDelay, false);</script>
 </head>
 
 <br>
