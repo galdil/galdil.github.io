@@ -7,13 +7,10 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
-<head>
 <script>
-function refreshDataWithRandomDelay() {
-    setTimeout(refreshData, 5000);
-}
-document.addEventListener("load", refreshDataWithRandomDelay, false);</script>
-</head>
+ setTimeout(15000);
+</script>
+
 
 <br>
 <div class="apester-media" data-media-id="5cc56af92ea93c865b0b5a5b" height="354"></div><script 
