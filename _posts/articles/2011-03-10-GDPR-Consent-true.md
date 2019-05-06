@@ -7,7 +7,9 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
+<script>
 setTimeout(function(){ alert("Hello"); }, 3000);
+</script>
 <br>
 <div class="apester-media" data-media-id="5cc56af92ea93c865b0b5a5b" height="354"></div><script 
 async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
