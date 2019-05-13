@@ -14,5 +14,6 @@ share: true
 ---
 ### New Player
 <br>
-<div class="apester-media" data-media-id="5c18e62996d2342c8307d1ba" data-player="true" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5cc99a6c50ddd76ee6fb0b3a" height="604"></div><script async
+src="https://storage.googleapis.com/apester-stg/sdk/stg/apester-sdk.js"></script>
 <br>
