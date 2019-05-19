@@ -12,18 +12,21 @@ image:
 comments: true
 share: true
 ---
-size: medium, shape: square, text-color: black, strip background-color: white
+size: medium, shape: square, text-color: white, strip background-color: white
+
 <div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cd963941ff811e90ad9db95" item-shape="square"
-   item-size="medium" item-text-color="black" item-has-shadow="true" strip-background="white"></div>
+   item-size="medium" item-text-color="white" item-has-shadow="true" strip-background="white"></div>
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
-size: medium, shape: round, text-color: black, strip background-color: white
+size: medium, shape: round, text-color: white, strip background-color: white
+
 <div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cd963941ff811e90ad9db95" item-shape="round"
-   item-size="medium" item-text-color="black" item-has-shadow="true" strip-background="white"></div>
+   item-size="medium" item-text-color="white" item-has-shadow="true" strip-background="white"></div>
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
-size: medium, shape: roundSquare, text-color: black, strip background-color: white
+size: medium, shape: roundSquare, text-color: white, strip background-color: white
+
 <div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cd963941ff811e90ad9db95" item-shape="roundSquare"
-   item-size="medium" item-text-color="black" item-has-shadow="true" strip-background="white"></div>
+   item-size="medium" item-text-color="white" item-has-shadow="true" strip-background="white"></div>
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
