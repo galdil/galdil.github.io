@@ -13,5 +13,5 @@ comments: true
 share: true
 ---
 <div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cd963941ff811e90ad9db95" item-shape="square"
-   item-size="large" item-text-color="black" item-has-shadow="true" strip-background="white"></div>
+   item-size="small" item-text-color="black" item-has-shadow="true" strip-background="white"></div>
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
