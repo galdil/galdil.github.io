@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hiro-springserve"
-excerpt: "Hiro-springserve"
+title: "hiro-gdpr-consent-true"
+excerpt: "hiro-gdpr-consent-true"
 categories: articles
 tags: [sample-post, video]
 comments: true
