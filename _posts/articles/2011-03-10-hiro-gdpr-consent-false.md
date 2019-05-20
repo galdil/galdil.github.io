@@ -10,7 +10,6 @@ share: true
 <script type="text/javascript">
 (function() {
   var gdprAppliesGlobally = false;
-
   function addFrame() {
    if (!window.frames['__cmpLocator']) {
      if (document.body) {
