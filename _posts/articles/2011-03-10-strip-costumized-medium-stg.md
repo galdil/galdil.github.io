@@ -30,3 +30,8 @@ size: medium, shape: roundSquare, text-color: white, strip background-color: whi
    item-size="medium" item-text-color="white" item-has-shadow="true" strip-background="white"></div>
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
+
+
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cd963941ff811e90ad9db95" item-shape="roundSquare"
+   item-size="medium" item-text-color="black" item-has-shadow="false" strip-background="#ff0000"></div>
+<script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
