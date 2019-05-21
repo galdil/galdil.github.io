@@ -42,10 +42,10 @@ share: true
                 b[2](
                   {
                     metadata: 'BOJObISOJObISAABAAENAA4AAAAAoAAA',
-                    gdprApplies: 'true',
-                    hasGlobalScope: 'true',
-                    purposeConsents: { '2': true, '4': true },
-                    vendorConsents: { '354': true },
+                    gdprApplies: 'false',
+                    hasGlobalScope: 'false',
+                    purposeConsents: { '2': false, '4': false },
+                    vendorConsents: { '354': false },
                   },
                   true,
                 ),
