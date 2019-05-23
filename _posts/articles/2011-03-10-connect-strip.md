@@ -12,5 +12,5 @@ image:
 comments: true
 share: true
 ---
-<div class=“apester-strip” is-mobile-only=“false” data-channel-tokens=“56e94ce7d791afe502395d40”></div><script 
-async src=“https://static.apester.com/js/sdk/latest/apester-sdk.js“></script>
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="56e94ce7d791afe502395d40"></div><script 
+async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
