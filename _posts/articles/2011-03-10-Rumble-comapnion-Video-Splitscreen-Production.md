@@ -7,9 +7,6 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
-<script>!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src="https://rumble.com/embedJS/uj4zn"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, "script", "Rumble");</script><div id="rumble_uj4zn"></div>
-
-<script>Rumble("play", {"video": "v52dab","div": "rumble_uj4zn","autoplay":2,"next_timer":0, "playlist": ["v52dab","v52dab","v52dab","v52dab","v52dab","v52dab","v52dab","v52dab","v52dab","v52dab"]});</script>
 <br>
 ***==============================***<br>
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
