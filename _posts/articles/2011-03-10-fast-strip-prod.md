@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-prod"
-excerpt: "strip-prod"
+title: "fast-strip-prod"
+excerpt: "fast-strip-prod"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
