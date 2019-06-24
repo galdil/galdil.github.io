@@ -12,16 +12,15 @@ image:
 comments: true
 share: true
 ---
-<br>
 <!--
 <div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cbdb7dc941f318ac15dba17" data-fast-strip="true"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 -->
+<br>
 <div class="apester-strip apester-element" is-mobile-only="false" data-channel-tokens="5d0741b3e822731c05b12cf7" item-shape="square" item-has-shadow="true" item-size="medium" item-text-color="white" strip-background="transparent" data-fast-strip="true" style="height: 235px;"><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
-***==============================***<br>
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
-## Cupidatat 90's lo-fi authentic try-hard
+## 11111Cupidatat 90's lo-fi authentic try-hard
 
 In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's. 
 
