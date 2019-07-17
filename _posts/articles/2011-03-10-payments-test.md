@@ -10,6 +10,6 @@ share: true
 <br>
 ### Payments test
 <br>
-<div class="apester-media" data-media-id="5a5b8440d776de0001015a4b" height="354"></div><script async
+<div class="apester-media" data-media-id="5d2b3f969f6cad4bbd635373" height="354"></div><script async
 src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
