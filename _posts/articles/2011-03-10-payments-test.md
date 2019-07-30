@@ -8,8 +8,12 @@ comments: true
 share: true
 ---
 <br>
-### Payments test
+### Payments test active plan channels:
+## pro plan:
 <br>
 <div class="apester-media" data-media-id="5d40565cd1bef04322e21abb" height="354"></div><script async
 src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
+## essential plan:
+<div class="apester-media" data-media-id="5d405962d1bef02db6e21abf" height="354"></div><script async
+src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
