@@ -23,8 +23,6 @@ src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <div class="apester-media" data-media-id="5d40565cd1bef04322e21abb" height="354"></div><script async
 src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
-
-### Payments test active plan channels:
-## channel with no plan
+## channel with no plan:
 <br>
 <div class="apester-media" data-media-id="5d406177d1bef04d50e21ac6" height="372"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
