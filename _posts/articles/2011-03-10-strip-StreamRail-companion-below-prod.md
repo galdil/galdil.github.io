@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-companion-below-prod"
-excerpt: "strip-companion-below-prod"
+title: "strip-StreamRail-companion-below-prod"
+excerpt: "strip-StreamRail-companion-below-prod"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
