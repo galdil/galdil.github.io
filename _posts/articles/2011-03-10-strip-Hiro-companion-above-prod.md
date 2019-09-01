@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-Hiro-companion-below-prod"
-excerpt: "strip-Hiro-companion-below-prod"
+title: "strip-Hiro-companion-above-prod"
+excerpt: "strip-Hiro-companion-above-prod"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
