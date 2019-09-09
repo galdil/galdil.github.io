@@ -12,8 +12,32 @@ image:
 comments: true
 share: true
 ---
-### New Player
+### poll
+<br>
+<div class="apester-media" data-media-id="5d70c0f21a7c2b4c561076d8" height="600"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+### quiz
+<br>
+<div class="apester-media" data-media-id="5d76591614249e18524f309e" height="350"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+### personality
+<br>
+<div class="apester-media" data-media-id="5d5006efac7f1a1f822828e0" height="354"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+### countdown
+<br>
+<div class="apester-media" data-media-id="5d76595714249e78ff4f30a2" height="404"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+### story
+<br>
+<div class="apester-media" data-media-id="5d7659d814249e70ed4f30ab" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+### gallery
 <br>
 <div class="apester-media" data-media-id="5cc98c7850ddd77421fb0b27" height="604"></div><script async
 src="https://storage.googleapis.com/apester-stg/sdk/stg/apester-sdk.js"></script>
+<br>
+### video engine
+<br>
+<div class="apester-media" data-media-id="5d765a7e14249efbbe4f30ac" height="388"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
