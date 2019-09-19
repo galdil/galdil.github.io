@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-pwa-stg"
-excerpt: "strip-pwa-stg"
+title: "StreamRailBlade-companion-below-strip-stg"
+excerpt: "StreamRailBlade-companion-below-strip-stg"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
