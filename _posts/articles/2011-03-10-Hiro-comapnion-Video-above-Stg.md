@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hiro-comapnion-Video-Splitscreen-Stg"
-excerpt: "Hiro-comapnion-Video-Splitscreen-Stg"
+title: "Hiro-comapnion-Video-above-Stg"
+excerpt: "Hiro-comapnion-Video-above-Stg"
 categories: articles
 tags: [sample-post, video]
 comments: true
