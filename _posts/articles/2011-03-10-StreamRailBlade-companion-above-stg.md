@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "StreamRailBlade-belowUnit-stg"
-excerpt: "StreamRailBlade-belowUnit-stg"
+title: "StreamRailBlade-companion-above-stg"
+excerpt: "StreamRailBlade-companion-above-stg"
 categories: articles
 tags: [sample-post, video]
 comments: true
