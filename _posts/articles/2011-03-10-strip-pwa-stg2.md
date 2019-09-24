@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 <br>
-<div class="apester-strip" data-fast-strip="true" is-mobile-only="false" item-size="medium" data-channel-tokens="5cd963941ff811e90ad9db95"></div>
+<div class="apester-strip" data-fast-strip="true" is-mobile-only="false" item-size="small" data-channel-tokens="5cd963941ff811e90ad9db95"></div>
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ***==============================***<br>
