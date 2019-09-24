@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-pwa-stg2"
-excerpt: "strip-pwa-stg2"
+title: "strip-square-small-stg"
+excerpt: "strip-square-small-stg"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
