@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 <br>
-<div class="apester-strip" data-fast-strip="true" is-mobile-only="false" item-size="small" header-font-size="80" header-font-family="BebasNeue" header-font-weight="700" header-font-color="rgba(204,0,51,0.2)" header-ltr="true" header-text="what are you looking?" data-channel-tokens="5cd963941ff811e90ad9db95" style="height: 260px;width: 600px;"></div>
+<div class="apester-strip" data-fast-strip="true" is-mobile-only="false" item-size="small" header-font-size="80" header-font-family="BebasNeue" header-font-weight="700" header-font-color="rgba(204,0,51,0.2)" header-ltr="true" header-text="what are you looking?" data-channel-tokens="5cd963941ff811e90ad9db95"></div>
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ***==============================***<br>
