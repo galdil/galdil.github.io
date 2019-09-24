@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 <br>
-<div class="apester-strip" data-fast-strip="true" is-mobile-only="false" item-shape="round" header-ltr="true" item-size="small" header-font-size="12" header-font-family="Assistant" header-font-weight="100" header-font-color="rgba(208,30,37,1)" header-text="הסטוריז של כלכליסט" data-channel-tokens="5cd963941ff811e90ad9db95"></div>
+<div class="apester-strip" data-fast-strip="true" is-mobile-only="false" item-shape="round" header-rtl="true" item-size="small" header-font-size="24" header-font-family="Assistant" header-font-weight="100" header-font-color="rgba(208,30,37,1)" header-text="הסטוריז של כלכליסט" data-channel-tokens="5cd963941ff811e90ad9db95"></div>
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ***==============================***<br>
