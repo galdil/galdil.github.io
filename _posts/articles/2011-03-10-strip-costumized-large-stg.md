@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-stg"
-excerpt: "strip-stg"
+title: "strip-costumized-large-stg"
+excerpt: "strip-costumized-large-stg"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
@@ -13,9 +13,15 @@ comments: true
 share: true
 ---
 <br>
-<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cecf27576a6ba0a80731a38" item-shape="round" item-has-shadow="true" item-size="small" item-text-color="white" strip-background="transparent" data-fast-strip="true"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cecf27576a6ba0a80731a38" item-shape="round" item-has-shadow="true" item-size="large" item-text-color="white" strip-background="transparent" data-fast-strip="true"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
-
+<br>
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cecf27576a6ba0a80731a38" item-shape="square" item-has-shadow="true" item-size="large" item-text-color="white" strip-background="transparent" data-fast-strip="true"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+<br>
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cecf27576a6ba0a80731a38" item-shape="roundSquare" item-has-shadow="true" item-size="large" item-text-color="white" strip-background="transparent" data-fast-strip="true"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+<br>
 ***==============================***<br>
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
