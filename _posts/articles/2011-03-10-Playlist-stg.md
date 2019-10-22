@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 <br>
-### Playlist production
+### Playlist staging
 <br>
 <div class="apester-media" data-token="5989a1486638460100f3de3d" data-context="true" data-tags="" data-fallback="true" height="350"></div><script async 
 src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
