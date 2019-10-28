@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Story-prod-with-display-inApp"
-excerpt: "Story-prod-with-display-inApp"
+title: "Display-GPT-InUnit-prod"
+excerpt: "Display-GPT-InUnit-prod"
 categories: articles
 tags: [sample-post, video]
 comments: true
