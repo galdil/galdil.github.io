@@ -13,13 +13,55 @@ comments: true
 share: true
 ---
 <br>
-<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cecf27576a6ba0a80731a38" item-shape="round" item-has-shadow="true" item-size="small" item-text-color="white" strip-background="transparent" data-fast-strip="true"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div 
+  class="apester-strip" 
+  is-mobile-only="false" 
+  data-channel-tokens="5cecf27576a6ba0a80731a38" 
+  item-shape="round" 
+  item-has-shadow="true" 
+  item-size="small" 
+  item-text-color="white" 
+  strip-background="transparent" 
+  data-fast-strip="true"
+  top-border-width="1"
+  top-border-color="rgba(0,0,0,0.1)"
+  bottom-border-color="rgba(0,0,0,0.1)"
+  bottom-border-width="1"
+  ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
-<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cecf27576a6ba0a80731a38" item-shape="square" item-has-shadow="true" item-size="small" item-text-color="white" strip-background="transparent" data-fast-strip="true"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div 
+  class="apester-strip" 
+  is-mobile-only="false" 
+  data-channel-tokens="5cecf27576a6ba0a80731a38" 
+  item-shape="square" 
+  item-has-shadow="true" 
+  item-size="small" 
+  item-text-color="white" 
+  strip-background="transparent" 
+  data-fast-strip="true"
+  top-border-width="1"
+  top-border-color="rgba(0,0,0,0.1)"
+  bottom-border-color="rgba(0,0,0,0.1)"
+  bottom-border-width="1"
+  ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
-<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cecf27576a6ba0a80731a38" item-shape="roundSquare" item-has-shadow="true" item-size="small" item-text-color="white" strip-background="transparent" data-fast-strip="true"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div 
+  class="apester-strip" 
+  is-mobile-only="false" 
+  data-channel-tokens="5cecf27576a6ba0a80731a38" 
+  item-shape="roundSquare" 
+  item-has-shadow="true" 
+  item-size="small" 
+  item-text-color="white" 
+  strip-background="transparent" 
+  data-fast-strip="true"
+  top-border-width="1"
+  top-border-color="rgba(0,0,0,0.1)"
+  bottom-border-color="rgba(0,0,0,0.1)"
+  bottom-border-width="1"
+  ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
 ***==============================***<br>
