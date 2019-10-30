@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "connect-strip"
-excerpt: "connect-strip"
+title: "strip-with-unit-prod"
+excerpt: "strip-with-unit-prod"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
