@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-with-unit-prod"
-excerpt: "strip-with-unit-prod"
+title: "strip-with-unit-gpt-prod"
+excerpt: "strip-with-unit-gpt-prod"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
