@@ -17,7 +17,7 @@ share: true
   class="apester-strip apester-element"
   is-mobile-only="false" 
   data-channel-tokens="58ce70315eeaf50e00de3da7" 
-  item-shape="square" 
+  item-shape="round" 
   item-has-shadow="true" 
   item-size="medium" 
   item-text-color="white" 
