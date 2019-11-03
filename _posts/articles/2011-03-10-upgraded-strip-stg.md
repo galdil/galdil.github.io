@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-stg2"
-excerpt: "strip-stg2"
+title: "upgraded-strip-stg"
+excerpt: "upgraded-strip-stg"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
