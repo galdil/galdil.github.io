@@ -19,7 +19,7 @@ share: true
   data-channel-tokens="58ce70315eeaf50e00de3da7" 
   item-shape="round" 
   item-has-shadow="true" 
-  item-size="medium" 
+  item-size="small" 
   item-text-color="white" 
   strip-background="transparent" 
   header-font-size="25" 
