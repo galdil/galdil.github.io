@@ -29,7 +29,7 @@ share: true
   header-ltr="true" 
   header-text="Today's stories" 
   data-fast-strip="true"
-  top-border-width="1"
+  top-border-width="5"
   top-border-color="rgba(0,0,0,0.1)"
   bottom-border-color="rgba(0,0,0,0.1)"
   bottom-border-width="1"
