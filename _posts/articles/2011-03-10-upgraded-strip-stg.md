@@ -20,7 +20,7 @@ share: true
   item-shape="round" 
   item-has-shadow="true" 
   item-size="small" 
-  item-text-color="white" 
+  item-text-color="black" 
   strip-background="transparent" 
   header-font-size="25" 
   header-font-family="BebasNeue" 
