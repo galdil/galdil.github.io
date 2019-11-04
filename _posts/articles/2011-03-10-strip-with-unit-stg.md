@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-with-unit-ads-bug"
-excerpt: "strip-with-unit-ads-bug"
+title: "strip-with-unit-stg"
+excerpt: "strip-with-unit-stg"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
