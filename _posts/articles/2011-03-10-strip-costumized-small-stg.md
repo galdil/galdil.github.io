@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-costumized-small-stg"
-excerpt: "strip-costumized-small-stg"
+title: "strip-costumized-small-stg!!!"
+excerpt: "strip-costumized-small-stg!!!"
 modified: 2017-09-26
 categories: articles
 tags: [readability]
