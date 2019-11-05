@@ -13,18 +13,7 @@ comments: true
 share: true
 ---
 <br>
-<div 
-<div 
-  class="apester-strip" 
-  is-mobile-only="false" 
-  data-channel-tokens="5cd963941ff811e90ad9db95" 
-  item-shape="roundSquare" 
-  item-has-shadow="false" 
-  item-size="small" 
-  item-text-color="white" 
-  strip-background="transparent" 
-  data-fast-strip="true"
-  ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-strip apester-element" is-mobile-only="false" data-channel-tokens="5cd963941ff811e90ad9db95" item-shape="roundSquare" item-has-shadow="true" item-size="small" item-text-color="black" strip-background="transparent" header-font-size="25" header-font-family="BebasNeue" header-font-weight="700" header-font-color="rgba(82,25,154,1)" header-ltr="true" header-text="Today's stories" data-fast-strip="true" top-border-width="1" top-border-color="rgba(0,0,0,0.1)" bottom-border-color="rgba(0,0,0,0.1)" bottom-border-width="1" style="height: 207px;"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 
 
