@@ -35,6 +35,7 @@ share: true
   bottom-border-width="5"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
+<br>
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
