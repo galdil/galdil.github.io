@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "StreamRailBlade-companion-below-prod"
-excerpt: "StreamRailBlade-companion-below-prod"
+title: "playbuzz-below-prod"
+excerpt: "playbuzz-below-prod"
 categories: articles
 tags: [sample-post, video]
 comments: true
