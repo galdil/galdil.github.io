@@ -28,40 +28,7 @@ share: true
   bottom-border-color="rgba(0,0,0,0.1)"
   bottom-border-width="1"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
-<br>
-<div 
-  class="apester-strip" 
-  is-mobile-only="false" 
-  data-channel-tokens="5cd963941ff811e90ad9db95" 
-  item-shape="square" 
-  item-has-shadow="true" 
-  item-size="large" 
-  item-text-color="white" 
-  strip-background="transparent" 
-  data-fast-strip="true"
-  top-border-width="1"
-  top-border-color="rgba(0,0,0,0.1)"
-  bottom-border-color="rgba(0,0,0,0.1)"
-  bottom-border-width="1"
-  ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
-<br>
-<div 
-  class="apester-strip" 
-  is-mobile-only="false" 
-  data-channel-tokens="5cd963941ff811e90ad9db95" 
-  item-shape="roundSquare" 
-  item-has-shadow="true" 
-  item-size="large" 
-  item-text-color="white" 
-  strip-background="transparent" 
-  data-fast-strip="true"
-  top-border-width="1"
-  top-border-color="rgba(0,0,0,0.1)"
-  bottom-border-color="rgba(0,0,0,0.1)"
-  bottom-border-width="1"
-  ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+
 <br>
 <br>
 ***==============================***<br>
