@@ -20,7 +20,6 @@ share: true
   item-shape="round" 
   item-has-shadow="true" 
   item-size="large" 
-  item-text-color="white" 
   strip-background="transparent" 
   data-fast-strip="true"
   top-border-width="1"
