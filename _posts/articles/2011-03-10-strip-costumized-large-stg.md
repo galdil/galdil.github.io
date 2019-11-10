@@ -27,6 +27,7 @@ share: true
   top-border-color="rgba(0,0,0,0.1)"
   bottom-border-color="rgba(0,0,0,0.1)"
   bottom-border-width="1"
+  thumbnails-stroke-color="blue"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
@@ -44,6 +45,7 @@ share: true
   top-border-color="rgba(0,0,0,0.1)"
   bottom-border-color="rgba(0,0,0,0.1)"
   bottom-border-width="1"
+  thumbnails-stroke-color="blue"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
@@ -61,6 +63,7 @@ share: true
   top-border-color="rgba(0,0,0,0.1)"
   bottom-border-color="rgba(0,0,0,0.1)"
   bottom-border-width="1"
+  thumbnails-stroke-color="blue"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
