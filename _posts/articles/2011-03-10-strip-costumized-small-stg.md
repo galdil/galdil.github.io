@@ -30,10 +30,10 @@ asdsadsada adssad sa d as ddsadsa
   header-ltr="true" 
   header-text="Today's stories" 
   data-fast-strip="true"
-  top-border-width="5"
+  top-border-width="1"
   top-border-color="rgba(0,0,0,0.3)"
   bottom-border-color="rgba(0,0,0,0.3)"
-  bottom-border-width="5"
+  bottom-border-width="1"
   thumbnails-stroke-color="blue"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
