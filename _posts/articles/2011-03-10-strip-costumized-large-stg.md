@@ -16,6 +16,8 @@ share: true
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
+  header-font-size="28"
+  header-text="More Story"
   data-channel-tokens="5cd963941ff811e90ad9db95" 
   item-shape="round" 
   item-has-shadow="true" 
@@ -33,6 +35,8 @@ share: true
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
+  header-font-size="28"
+  header-text="More Story"
   data-channel-tokens="5cd963941ff811e90ad9db95" 
   item-shape="square" 
   item-has-shadow="true" 
@@ -51,6 +55,8 @@ share: true
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
+  header-font-size="28"
+  header-text="More Story"
   data-channel-tokens="5cd963941ff811e90ad9db95" 
   item-shape="roundSquare" 
   item-has-shadow="true" 
