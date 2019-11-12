@@ -32,45 +32,6 @@ share: true
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
-<div 
-  class="apester-strip" 
-  is-mobile-only="false" 
-  header-font-size="28"
-  header-text="More Story"
-  data-channel-tokens="5cd963941ff811e90ad9db95" 
-  item-shape="square" 
-  item-has-shadow="true" 
-  item-size="large" 
-  item-text-color="white" 
-  strip-background="transparent" 
-  data-fast-strip="true"
-  top-border-width="1"
-  top-border-color="rgba(0,0,0,0.1)"
-  bottom-border-color="rgba(0,0,0,0.1)"
-  bottom-border-width="1"
-  thumbnails-stroke-color="blue"
-  ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
-<br>
-<div 
-  class="apester-strip" 
-  is-mobile-only="false" 
-  header-font-size="28"
-  header-text="More Story"
-  data-channel-tokens="5cd963941ff811e90ad9db95" 
-  item-shape="roundSquare" 
-  item-has-shadow="true" 
-  item-size="large" 
-  item-text-color="white" 
-  strip-background="transparent" 
-  data-fast-strip="true"
-  top-border-width="1"
-  top-border-color="rgba(0,0,0,0.1)"
-  bottom-border-color="rgba(0,0,0,0.1)"
-  bottom-border-width="1"
-  thumbnails-stroke-color="blue"
-  ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
 <br>
 ***==============================***<br>
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
