@@ -8,11 +8,11 @@ comments: true
 share: true
 ---
 <br>
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5dca93c62f6b4445b603980c" item-size="small" item-shape="round" top-border-width="2" bottom-border-width="2"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
 ## scroll down for the unit
 ***==============================***<br>
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
-<br>
-<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5dca93c62f6b4445b603980c" item-size="small" item-shape="round" top-border-width="2" bottom-border-width="2"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ## Cupidatat 90's lo-fi authentic try-hard
 
