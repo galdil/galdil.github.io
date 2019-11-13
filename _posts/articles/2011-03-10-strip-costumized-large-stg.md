@@ -57,7 +57,7 @@ share: true
   is-mobile-only="false" 
   header-font-size="28"
   header-text="More Story"
-  data-channel-tokens="5cd963941ff811e90ad9db95" 
+  data-channel-tokens="5cecf27576a6ba0a80731a38" 
   item-shape="roundSquare" 
   item-has-shadow="true" 
   item-size="large" 
