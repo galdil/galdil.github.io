@@ -41,7 +41,7 @@ asdsadsada adssad sa d as ddsadsa
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
-  data-channel-tokens="5cd963941ff811e90ad9db95" 
+  data-channel-tokens="5dcbc10016698427404a0f57" 
   item-shape="square" 
   item-has-shadow="true" 
   item-size="small" 
@@ -65,7 +65,7 @@ asdsadsada adssad sa d as ddsadsa
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
-  data-channel-tokens="5cd963941ff811e90ad9db95" 
+  data-channel-tokens="5cecf27576a6ba0a80731a38" 
   item-shape="roundSquare" 
   item-has-shadow="true" 
   item-size="small" 
