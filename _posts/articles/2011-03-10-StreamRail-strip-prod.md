@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "StreamRailBlade-strip-prod"
-excerpt: "StreamRailBlade-strip-prod"
+title: "StreamRail-strip-prod"
+excerpt: "StreamRail-strip-prod"
 categories: articles
 tags: [sample-post, video]
 comments: true
