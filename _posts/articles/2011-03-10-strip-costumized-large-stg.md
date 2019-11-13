@@ -24,7 +24,7 @@ share: true
   header-text="Today's stories" 
   data-channel-tokens="5cd963941ff811e90ad9db95" 
   item-shape="round"
-  item-text-color="white"
+  
   item-has-shadow="true" 
   item-size="large" 
   strip-background="transparent" 
