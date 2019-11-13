@@ -23,7 +23,8 @@ share: true
   header-ltr="true" 
   header-text="Today's stories" 
   data-channel-tokens="5cd963941ff811e90ad9db95" 
-  item-shape="round" 
+  item-shape="round"
+  item-text-color="white"
   item-has-shadow="true" 
   item-size="large" 
   strip-background="transparent" 
@@ -32,7 +33,7 @@ share: true
   top-border-color="rgba(0,0,0,0.1)"
   bottom-border-color="rgba(0,0,0,0.1)"
   bottom-border-width="1"
-  thumbnails-stroke-color="blue"
+  thumbnails-stroke-color="#4f1e9d"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
@@ -56,7 +57,7 @@ share: true
   top-border-color="rgba(0,0,0,0.1)"
   bottom-border-color="rgba(0,0,0,0.1)"
   bottom-border-width="1"
-  thumbnails-stroke-color="blue"
+  thumbnails-stroke-color="#4f1e9d"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
@@ -79,7 +80,7 @@ share: true
   top-border-color="rgba(0,0,0,0.1)"
   bottom-border-color="rgba(0,0,0,0.1)"
   bottom-border-width="1"
-  thumbnails-stroke-color="blue"
+  thumbnails-stroke-color="#4f1e9d"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
