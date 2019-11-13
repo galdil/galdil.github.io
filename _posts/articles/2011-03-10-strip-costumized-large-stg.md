@@ -40,7 +40,7 @@ share: true
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
-  header-font-size="28"
+  header-font-size="26"
   header-font-family="Roboto" 
   header-font-weight="700" 
   header-font-color="rgba(82,25,154,1)" 
@@ -63,7 +63,7 @@ share: true
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
-  header-font-size="28"
+  header-font-size="26"
   header-font-family="Roboto" 
   header-font-weight="700" 
   header-font-color="rgba(82,25,154,1)" 
