@@ -82,7 +82,7 @@ asdsadsada adssad sa d as ddsadsa
   top-border-color="rgba(0,0,0,0.1)"
   bottom-border-color="rgba(0,0,0,0.1)"
   bottom-border-width="1"
-  thumbnails-stroke-color="4f1e9d"
+  thumbnails-stroke-color="ee2e3d"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
