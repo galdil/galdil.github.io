@@ -15,8 +15,7 @@ share: true
 ***==============================***<br>
   item-shape="round" 
   item-has-shadow="true" 
-  item-size="small" 
-  item-text-color="white" 
+  item-size="small"  
   strip-background="transparent"
   header-font-size="18" 
   header-font-family="Roboto" 
