@@ -36,7 +36,6 @@ share: true
   item-shape="round" 
   item-has-shadow="true" 
   item-size="small" 
-  item-text-color="white" 
   strip-background="transparent"
   header-font-size="18" 
   header-font-family="Roboto" 
