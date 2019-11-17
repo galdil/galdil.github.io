@@ -13,7 +13,23 @@ comments: true
 share: true
 ---
 ***==============================***<br>
-asdsadsada adssad sa d as ddsadsa
+  item-shape="round" 
+  item-has-shadow="true" 
+  item-size="small" 
+  item-text-color="white" 
+  strip-background="transparent"
+  header-font-size="18" 
+  header-font-family="Roboto" 
+  header-font-weight="700" 
+  header-font-color="rgba(82,25,154,1)" 
+  header-ltr="true" 
+  header-text="Today's stories" 
+  data-fast-strip="true"
+  top-border-width="1"
+  top-border-color="rgba(0,0,0,0.3)"
+  bottom-border-color="rgba(0,0,0,0.3)"
+  bottom-border-width="1"
+  thumbnails-stroke-color="rgba(82,25,154,1)
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
@@ -21,7 +37,7 @@ asdsadsada adssad sa d as ddsadsa
   item-shape="round" 
   item-has-shadow="true" 
   item-size="small" 
-  item-text-color="black" 
+  item-text-color="white" 
   strip-background="transparent"
   header-font-size="18" 
   header-font-family="Roboto" 
@@ -37,6 +53,26 @@ asdsadsada adssad sa d as ddsadsa
   thumbnails-stroke-color="rgba(82,25,154,1)"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
+  class="apester-strip" 
+  is-mobile-only="false" 
+  data-channel-tokens="5dcbc10016698427404a0f57" 
+  item-shape="square" 
+  item-has-shadow="true" 
+  item-size="small" 
+  item-text-color="black" 
+  strip-background="transparent"
+  header-font-size="18" 
+  header-font-family="Roboto" 
+  header-font-weight="700" 
+  header-font-color="rgba(82,25,154,1)" 
+  header-ltr="true" 
+  header-text="Today's stories" 
+  data-fast-strip="true"
+  top-border-width="1"
+  top-border-color="rgba(0,0,0,0.1)"
+  bottom-border-color="rgba(0,0,0,0.1)"
+  bottom-border-width="1"
+  thumbnails-stroke-color="rgba(82,25,154,1)
 <br>
 <div 
   class="apester-strip" 
@@ -61,6 +97,23 @@ asdsadsada adssad sa d as ddsadsa
   thumbnails-stroke-color="rgba(82,25,154,1)"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
+  item-shape="roundSquare" 
+  item-has-shadow="true" 
+  item-size="small" 
+  item-text-color="black" 
+  strip-background="transparent"
+  header-font-size="18" 
+  header-font-family="Roboto" 
+  header-font-weight="700" 
+  header-font-color="rgba(82,25,154,1)" 
+  header-ltr="true" 
+  header-text="Today's stories" 
+  data-fast-strip="true"
+  top-border-width="1"
+  top-border-color="rgba(0,0,0,0.1)"
+  bottom-border-color="rgba(0,0,0,0.1)"
+  bottom-border-width="1"
+  thumbnails-stroke-color="rgba(82,25,154,1)
 <br>
 <div 
   class="apester-strip" 
