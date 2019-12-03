@@ -16,7 +16,7 @@ share: true
 <div 
   class="apester-strip apester-element"
   is-mobile-only="false" 
-  data-channel-tokens="58c551f76a67357e3b4aa944" 
+  data-channel-tokens="58c551f76a67357e3b4aa943" 
   item-shape="roundSquare" 
   item-has-shadow="true" 
   item-size="medium" 
