@@ -18,6 +18,7 @@ share: true
 <br>
 ## editorial unit:
 <br>
+<div class="apester-media" data-media-id="5dde8f05694a5dc20a16f3c8" height="972"></div>
 <br>
 ## same strip and playlist unit:
 <br>
