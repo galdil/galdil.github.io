@@ -31,7 +31,7 @@ share: true
   top-border-width="1"
   top-border-color="rgba(0,0,0,0.1)"
   bottom-border-color="rgba(0,0,0,0.1)"
-  bottom-border-width="1"
+
   thumbnails-stroke-color="rgba(82,25,154,1)"
   item-text-color="black"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
