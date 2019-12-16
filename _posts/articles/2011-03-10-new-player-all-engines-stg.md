@@ -37,7 +37,11 @@ share: true
 <div class="apester-media" data-media-id="5cc98c7850ddd77421fb0b27" height="604"></div><script async
 src="https://storage.googleapis.com/apester-stg/sdk/stg/apester-sdk.js"></script>
 <br>
-### video engine
+### video quiz - new player
+<br>
+<div class="apester-media" data-media-id="5de8c6a2b570ff784c25dae2" height="388"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+### video poll - old renderer
 <br>
 <div class="apester-media" data-media-id="5d765a7e14249efbbe4f30ac" height="388"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
