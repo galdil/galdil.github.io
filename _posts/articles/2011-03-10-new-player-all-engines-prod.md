@@ -26,9 +26,8 @@ share: true
 <br>
 <div class="apester-media" data-media-id="5d305b6671882b36a0fe6184" height="408"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
+<div class="apester-media" data-media-id="5df65b6b4db773e3aab73e8f" height="388"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
 <div class="apester-media" data-media-id="5d305c052eacbf333acbe3c9" height="388"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-
-
-
 
 
