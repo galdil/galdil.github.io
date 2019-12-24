@@ -12,6 +12,13 @@ image:
 comments: true
 share: true
 ---
+<script>
+  window.addEventListener('message', (event) => {
+if (event && event.data && event.data.type === 'strip_loaded') {
+  console.log(event);
+}
+}) 
+  </script>
 <br>
 <div 
   class="apester-strip" 
