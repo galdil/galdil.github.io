@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 size: small, shape: square, text-color: white, strip background-color: white
-<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5a7caf02bc015600016d42b8" item-shape="square"
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5d8488205f9d7b4f879f9fce" item-shape="square"
    item-size="small" item-text-color="white" item-has-shadow="true" strip-background="white"></div>
 <script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
