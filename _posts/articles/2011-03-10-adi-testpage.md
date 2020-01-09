@@ -10,7 +10,7 @@ share: true
 <br>
 <!--<div class="apester-strip apester-element" is-mobile-only="false" data-channel-tokens="5ced1c1a3698b2ae7a7b95d2"  header-font-size="25" header-font-family="Tangerine" header-font-weight="400" header-font-color="rgba(0,0,0,1)" header-provider="google" header-ltr="true" header-text="Weitere Beiträge" is-mobile-only="false" item-shape="square" item-has-shadow="true" item-size="medium" item-text-color="black" strip-background="transparent" data-fast-strip="true"></div>-->
 
-<div class="apester-strip apester-element" is-mobile-only="false" data-channel-tokens="5de69734b7735f772029b659" data-fast-strip="true" item-shape="round" item-has-shadow="false" item-size="small" item-text-color="black" header-font-color="#FFA07A" header-text="My Strories" style="height: 213px;"></div>
+<div class="apester-strip apester-element" is-mobile-only="false" data-channel-tokens="5de69734b7735f772029b659" data-fast-strip="true" item-shape="round" item-has-shadow="false" item-size="small" item-text-color="black" header-text="My Strories" strip-background="rgba(NaN,NaN,undefined,1)"  style="height: 213px;"></div>
 <script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ***==============================***<br>
