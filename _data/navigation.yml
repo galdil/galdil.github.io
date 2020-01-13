@@ -2,6 +2,9 @@
 
 - title: About
   url: /about/
+  
+- title: puppeteer
+  url: /puppeteer/
 
 - title: Articles
   url: /articles/
@@ -17,6 +20,3 @@
 
 - title: Search
   url: /search/
-  
-- title: puppeteer
-  url: /puppeteer/
