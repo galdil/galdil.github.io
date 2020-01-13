@@ -12,7 +12,7 @@ share: true
 
 <div class="apester-media apester-element" data-media-id="5e122e3fbadb65050c4593a9" height="458"</div><script async src="//static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
-  <div class="apester-media" data-media-id="5e0cae3333720f598e564cc3" height="470"></div><script async src="//static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+  <div class="apester-media apester-element" data-media-id="5e0cae3333720f598e564cc3" height="470"></div><script async src="//static.apester.com/js/sdk/latest/apester-sdk.js"></script>
     <br>
     
 <p>adi test 1.08</p>
