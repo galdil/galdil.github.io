@@ -9,12 +9,12 @@ share: true
 ---
 <br>
 <!--<div class="apester-strip apester-element" is-mobile-only="false" data-channel-tokens="5ced1c1a3698b2ae7a7b95d2"  header-font-size="25" header-font-family="Tangerine" header-font-weight="400" header-font-color="rgba(0,0,0,1)" header-provider="google" header-ltr="true" header-text="Weitere Beiträge" is-mobile-only="false" item-shape="square" item-has-shadow="true" item-size="medium" item-text-color="black" strip-background="transparent" data-fast-strip="true"></div>-->
-<p>adi test 1.02</p>
+<p>adi test 1.03</p>
 <div class="apester-media apester-element" data-media-id="5e122e3fbadb65050c4593a9" height="458" style="height: 458px; max-width: 600px;"><div>
- <script async="null" src="//static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+ <script src="//static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
   <div class="apester-media apester-element" data-media-id="5e0cae3333720f598e564cc3" height="470" style="height: 470px; max-width: 600px;"><div>
-  <script async="null" src="//static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+  <script src="//static.apester.com/js/sdk/latest/apester-sdk.js"></script>
     <br>
     
 <br>
