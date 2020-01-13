@@ -2,10 +2,9 @@
 layout: page
 title: "unit-gpt-functionality"
 excerpt: "unit-gpt-functionality"
-categories: articles
-tags: [sample-post, video]
-comments: true
-share: true
+modified: 2017-09-26
+categories: puppeteer
+
 ---
 <br>
 <div class="apester-media" data-media-id="5c62a06ce7b5aeb0263694f2" height="354"></div><script async
