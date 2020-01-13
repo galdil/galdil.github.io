@@ -6,4 +6,6 @@ modified: 2017-09-26
 categories: puppeteer
 
 ---
-sda asd as sad asd sad 
+<br>
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5ad092c7e16efe4e5c4fb821" item-size="small" item-shape="round" top-border-width="2" bottom-border-width="2"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
