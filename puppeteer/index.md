@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Puppeteer Test Pages
+excerpt: "My World"
 search_omit: true
 ---
 
