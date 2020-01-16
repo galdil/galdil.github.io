@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-<p>adi test 1.17</p>
+<p>adi test 1.18</p>
 <br>
 ### first
 <br>
@@ -16,7 +16,7 @@ share: true
   <div class="apester-media" data-media-id="5e20605247690889ae49ae54" data-manual-top-mobile="50"></div>
   
   <script async="null" src="//static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-  <div class="apester-media" data-media-id="5e20605247690889ae49ae54" data-manual-top-mobile="50"></div>
+  <div class="apester-media" data-media-id="5de7c28c1e4c418bccbf61e1" data-manual-top-mobile="50"></div>
   
   <div class="apester-media" data-media-id="5e2023631003e57c5bf85da2" data-manual-top-mobile="50"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 ### second
