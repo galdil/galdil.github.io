@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "streamRailBlade-ad-functionality"
-excerpt: "streamRailBlade-ad-functionality"
+title: "inUnit-streamRailBlade-ad-functionality"
+excerpt: "inUnit-streamRailBlade-ad-functionality"
 categories: puppeteer
 ---
 <script type="text/javascript">
