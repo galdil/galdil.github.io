@@ -8,18 +8,18 @@ comments: true
 share: true
 ---
 
-<p>adi test 1.13</p>
+<p>adi test 1.14</p>
 <br>
 ### first
 <br>
 <script async="null" src="//static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-  <div class="apester-media" data-media-id="5e20605247690889ae49ae54" data-manual-top-mobile="50"></div>
+  <div class="apester-media" data-media-id="5e20605247690889ae49ae54" data-manual-top-desktop="50"></div>
   
   <div 
                                                 class="apester-media" 
                                                 data-media-id="5e2023631003e57c5bf85da2" 
                                                 height="512" 
-                                                data-manual-top-mobile="50"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+                                                data-manual-top-desktop="50"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 ### second
 <br>
 <br>
