@@ -18,7 +18,6 @@ share: true
   <div 
                                                 class="apester-media" 
                                                 data-media-id="5e2023631003e57c5bf85da2" 
-                                                height="512" 
                                                 data-manual-top-desktop="50"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 ### second
 <br>
