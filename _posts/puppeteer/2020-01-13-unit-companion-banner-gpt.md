@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "unit-companion-gpt-functionality"
-excerpt: "unit-companion-gpt-functionality"
+title: "unit-companion-banner-gpt"
+excerpt: "unit-companion-banner-gpt"
 modified: 2017-09-26
 categories: puppeteer
 
