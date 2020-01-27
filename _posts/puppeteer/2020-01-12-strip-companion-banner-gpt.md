@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "strip-companion-gpt-functionality"
-excerpt: "strip-companion-gpt-functionality"
+title: "strip-companion-banner-gpt"
+excerpt: "strip-companion-banner-gpt"
 modified: 2017-09-26
 categories: puppeteer
 
