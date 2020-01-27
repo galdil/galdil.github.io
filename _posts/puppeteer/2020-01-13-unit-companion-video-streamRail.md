@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "unit-companion-streamRailBlade-ad-functionality"
-excerpt: "unit-companion-streamRailBlade-ad-functionality"
+title: "unit-companion-video-streamRail"
+excerpt: "unit-companion-video-streamRail"
 modified: 2020-01-16
 categories: puppeteer
 ---
