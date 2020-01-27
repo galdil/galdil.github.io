@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "unit-companion-rtk-functionality"
-excerpt: "unit-companion-rtk-functionality"
+title: "unit-companion-banner-rtk"
+excerpt: "unit-companion-banner-rtk"
 categories: puppeteer
 ---
 <br>
