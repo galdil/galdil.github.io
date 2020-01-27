@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "inUnit-gpt-functionality"
-excerpt: "inUnit-gpt-functionality"
+title: "inUnit-banner-gpt"
+excerpt: "inUnit-banner-gpt"
 categories: puppeteer
 ---
 
