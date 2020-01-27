@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "verify-gdpr-consent-rtk-banner-ads-events"
-excerpt: "verify-gdpr-consent-rtk-banner-ads-events"
+title: "gdpr-consent-companion-banner-rtk-events"
+excerpt: "gdpr-consent-companion-banner-rtk-events"
 categories: puppeteer
 ---
 <script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
