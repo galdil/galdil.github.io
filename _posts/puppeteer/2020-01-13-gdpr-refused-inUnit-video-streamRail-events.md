@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "verify-gdpr-refused-streamRail-video-ads-events"
-excerpt: "verify-gdpr-refused-streamRail-video-ads-events"
+title: "gdpr-refused-inUnit-video-streamRail-events"
+excerpt: "gdpr-refused-inUnit-video-streamRail-events"
 categories: puppeteer
 ---
 <script type="text/javascript">
