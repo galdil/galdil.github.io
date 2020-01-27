@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-companion-rtk-functionality"
-excerpt: "strip-companion-rtk-functionality"
+title: "strip-companion-banner-rtk"
+excerpt: "strip-companion-banner-rtk"
 categories: puppeteer
 ---
 <br>
