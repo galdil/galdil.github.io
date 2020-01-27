@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "verify-gdpr-refused-rtk-banner-ads-events"
-excerpt: "verify-gdpr-refused-rtk-banner-ads-events"
+title: "gdpr-refused-companion-banner-rtk-events"
+excerpt: "gdpr-refused-companion-banner-rtk-events"
 categories: puppeteer
 ---
 <script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
