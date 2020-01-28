@@ -33,6 +33,9 @@ share: true
   bottom-border-color="rgba(0,0,0,0.1)"
   bottom-border-width="1"
   thumbnails-stroke-color="rgba(82,25,154,1)"
+  ad-unit="ad unit test"
+  partner="partner test"
+  click-macro="click test"
   ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <br>
