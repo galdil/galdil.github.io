@@ -21,7 +21,7 @@ categories: articles
   item-text-color="black" 
   strip-background="transparent"
   header-font-size="18" 
-  header-font-family="Roboto" 
+  header-font-family="Knockout" 
   header-font-weight="700" 
   header-font-color="rgba(82,25,154,1)" 
   header-ltr="true" 
