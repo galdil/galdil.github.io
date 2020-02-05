@@ -20,28 +20,7 @@ if (event && event.data && event.data.type === 'strip_loaded') {
 }) 
   </script>
 <br>
-<div 
-  class="apester-strip" 
-  is-mobile-only="false" 
-  data-channel-tokens="5cd963941ff811e90ad9db95"
-  header-font-family="Roboto" 
-  header-font-weight="700" 
-  header-font-color="rgba(82,25,154,1)" 
-  header-ltr="true" 
-  header-text="Today's stories" 
-  header-font-size="22"
-  item-shape="round" 
-  item-has-shadow="true" 
-  item-size="medium"  
-  strip-background="transparent" 
-  data-fast-strip="true"
-  top-border-width="1"
-  top-border-color="rgba(0,0,0,0.1)"
-  bottom-border-color="rgba(0,0,0,0.1)"
-
-  thumbnails-stroke-color="rgba(82,25,154,1)"
-  item-text-color="black"
-  ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cd963941ff811e90ad9db95" item-shape="roundSquare" item-size="medium" strip-background="rgba(0, 0, 0, 0)" thumbnails-stroke-color="rgb(264, 46, 61)"  header-text="WEITERE BEITRÄGE"  header-font-family="Knockout"  header-provider="system"  header-font-size="40"  header-font-color="rgba(0,0,0,1)"  header-font-weight="400"  header-ltr="true"  top-border-width="0"  top-border-color="black"  bottom-border-width="0"  bottom-border-color="black"  data-fast-strip="true"></div>
 <br>
 <br>
 <div 
