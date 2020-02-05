@@ -22,7 +22,7 @@ share: true
   item-size="medium" 
   item-text-color="white" 
   strip-background="rgba(NaN,NaN,undefined,1)" 
-  header-font-size="30" 
+  header-font-size="40" 
   header-font-family="BebasNeue"
   header-font-weight="300" 
   header-font-color="rgba(117,206,220,1)" 
