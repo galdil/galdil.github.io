@@ -38,7 +38,7 @@ if (event && event.data && event.data.type === 'strip_loaded') {
   top-border-width="1"  
   top-border-color="rgba(0,0,0,0.1)"  
   bottom-border-width="1"  
-  top-border-color="rgba(0,0,0,0.1)"  
+  bottom-border-color="rgba(0,0,0,0.1)"  
   data-fast-strip="true"></div>
 <br>
 <div 
