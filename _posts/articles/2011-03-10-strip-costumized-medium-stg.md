@@ -19,7 +19,6 @@ if (event && event.data && event.data.type === 'strip_loaded') {
 }
 }) 
   </script>
-<br>
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
@@ -40,7 +39,6 @@ if (event && event.data && event.data.type === 'strip_loaded') {
   bottom-border-width="1"  
   bottom-border-color="rgba(0,0,0,0.1)"  
   data-fast-strip="true"></div>
-<br>
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
@@ -60,11 +58,9 @@ if (event && event.data && event.data.type === 'strip_loaded') {
   top-border-width="1"
   top-border-color="rgba(0,0,0,0.1)"
   bottom-border-color="rgba(0,0,0,0.1)"
-
   thumbnails-stroke-color="rgba(82,25,154,1)"
-  ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
-<br>
+  ></div>
+
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
@@ -85,8 +81,9 @@ if (event && event.data && event.data.type === 'strip_loaded') {
   top-border-color="rgba(0,0,0,0.1)"
   bottom-border-color="rgba(0,0,0,0.1)"
   thumbnails-stroke-color="rgba(82,25,154,1)"
-  ></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+  ></div>
 <br>
+<script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 
 
 
