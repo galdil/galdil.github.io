@@ -27,5 +27,5 @@ share: true
   bottom-border-color="black"  
   data-fast-strip="true">
 </div>
-<script async src="https://storage.googleapis.com/apester-stg/sdk/stg/apester-sdk.js"></script>
+<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 
