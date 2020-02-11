@@ -10,4 +10,4 @@ categories: articles
 <script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 
 ### editorial unit:
-<div class="apester-media" data-media-id="5d4ad1e6dcef1181945d267b" height="354"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5e41792e1907f635c902a95d" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
