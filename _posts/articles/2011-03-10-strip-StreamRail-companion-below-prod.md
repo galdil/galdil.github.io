@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 <br>
-<div class="apester-strip" is-mobile-only="false" item-shape="round" item-size="small" item-text-color="black" header-text="WEITERE BEITRÄGE"  header-font-family="Knockout"  header-provider="system"  header-font-size="40"  header-font-color="rgba(0,0,0,1)"  header-font-weight="400"  header-ltr="true" item-has-shadow="true" strip-background="white" data-channel-tokens="58ce70315eeaf50e00de3da7"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-strip" is-mobile-only="false" item-shape="round" item-size="small" item-text-color="black" header-text="WEITERE & BEITRÄGE"  header-font-family="Knockout"  header-provider="system"  header-font-size="40"  header-font-color="rgba(0,0,0,1)"  header-font-weight="400"  header-ltr="true" item-has-shadow="true" strip-background="white" data-channel-tokens="58ce70315eeaf50e00de3da7"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ***==============================***<br>
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
