@@ -9,7 +9,7 @@ categories: articles
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
-  data-channel-tokens="5be416d230cf1c2933791fbb" 
+  data-channel-tokens="58ada71d5407e68352f5645c" 
   item-shape="roundSquare" 
   item-size="medium" 
   strip-background="rgba(0, 0, 0, 0)" 
