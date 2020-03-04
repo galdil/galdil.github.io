@@ -35,7 +35,7 @@ share: true
 ### gallery
 <br>
 <div class="apester-media" data-media-id="5cc98c7850ddd77421fb0b27" height="604"></div><script async
-src="https://storage.googleapis.com/apester-stg/sdk/stg/apester-sdk.js"></script>
+src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### video quiz - new player
 <br>
