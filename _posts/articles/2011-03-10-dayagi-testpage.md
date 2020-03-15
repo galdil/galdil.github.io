@@ -10,7 +10,7 @@ share: true
 <br>
 <div class="apester-media" data-media-id="5dd41e1b9b860ce373b9284e" height="364"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 
-<div class="apester-strip apester-element" is-mobile-only="false" data-channel-tokens="5de69734b7735f772029b659" data-fast-strip="true" item-shape="round" item-has-shadow="false" item-size="small" item-text-color="black" header-text="My Strories" strip-background="rgba(NaN,NaN,undefined,1)"  style="height: 213px;"></div>
+
 <script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ***==============================***<br>
