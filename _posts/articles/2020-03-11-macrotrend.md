@@ -12,5 +12,5 @@ image:
 comments: true
 share: true
 ---
-<interaction data-token="5e41437f81cf2e39db83ed86" data-context="true" data-tags="" data-fallback="true" height="350" style="margin: 5px auto;"></interaction>
+<div class="apester-media" data-token="5e41437f81cf2e39db83ed86" data-context="true" data-tags="" data-fallback="true" height="350" style="margin: 5px auto;"></div>
 <script async="" src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
