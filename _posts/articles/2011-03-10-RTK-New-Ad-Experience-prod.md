@@ -158,5 +158,4 @@ Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over P
 <br>
 <div class="apester-media" data-media-id="5e170db787e7044c46607731" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
-<div class="apester-media" data-media-id="5d668908a809d46b78c5427f" height="350"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 
