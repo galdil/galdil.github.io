@@ -15,4 +15,4 @@ share: true
 <div class="apester-strip" is-mobile-only="false" data-channel-tokens="5dbaa3f15db5860d7058ecfe" bottom-border-width="4" top-border-width="4"></div><script 
 async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
-<div class="apester-media" data-media-id="5b992c9cd6d3b0123ce75a45" height="986"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<!--<div class="apester-media" data-media-id="5b992c9cd6d3b0123ce75a45" height="986"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>-->
