@@ -8,7 +8,10 @@ comments: true
 share: true
 ---
 <br>
-<!--<div class="apester-media" data-media-id="5dd41e1b9b860ce373b9284e" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>-->
+<!--<div class="apester-media" data-media-id="5dd41e1b9b860ce373b9284e" height="512"></div>-->
+
+
+<script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 
    <div
       class="apester-strip apester-element"
