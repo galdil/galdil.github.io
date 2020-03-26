@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "primis"
-excerpt: "primis"
+title: "streamrail3"
+excerpt: "streamrail3"
 categories: articles
 tags: [sample-post, video]
 comments: true
