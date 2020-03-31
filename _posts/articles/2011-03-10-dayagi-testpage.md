@@ -23,7 +23,7 @@ share: true
       item-text-color="black"
       header-font-color="rgba(204,0,51,0.2)"
       header-ltr="true"
-      item-shape="square"
+      item-shape="round"
       item-has-shadow="false"
       item-size="small"
       header-text="what are you looking?"
