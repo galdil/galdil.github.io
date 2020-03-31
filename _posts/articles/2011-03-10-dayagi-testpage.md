@@ -15,17 +15,9 @@ share: true
 
    <div
       class="apester-strip apester-element"
-      is-mobile-only="false"
-      data-fast-strip="false"
-      strip-background="rgba(249,249,249,100)"
       data-channel-tokens="5e78e4ef647f15862657bd82"
-      item-text-color="black"
-      header-font-color="rgba(204,0,51,0.2)"
-      header-ltr="true"
       item-shape="round"
-      item-has-shadow="false"
       item-size="medium"
-      partner="sddsa"
     ></div>
 
 
