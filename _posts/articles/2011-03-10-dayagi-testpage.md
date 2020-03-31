@@ -19,14 +19,12 @@ share: true
       data-fast-strip="false"
       strip-background="rgba(249,249,249,100)"
       data-channel-tokens="5e78e4ef647f15862657bd82"
-      header-font-size="12"
       item-text-color="black"
       header-font-color="rgba(204,0,51,0.2)"
       header-ltr="true"
       item-shape="round"
       item-has-shadow="false"
       item-size="medium"
-      header-text="what are you looking?"
       partner="sddsa"
     ></div>
 
