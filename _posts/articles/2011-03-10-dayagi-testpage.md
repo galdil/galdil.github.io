@@ -25,7 +25,7 @@ share: true
       header-ltr="true"
       item-shape="round"
       item-has-shadow="false"
-      item-size="small"
+      item-size="medium"
       header-text="what are you looking?"
       partner="sddsa"
     ></div>
