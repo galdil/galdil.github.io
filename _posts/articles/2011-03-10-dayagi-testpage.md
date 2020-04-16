@@ -25,7 +25,7 @@ share: true
 <script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <script async src="//middycdn-a.akamaihd.net/master/apester.js"></script>
 
-<div id="galking" style="height: 600px; width=300px; background:blue;">
+<div id="galking" style="height: 600px; width:300px; background:blue;">
 
 <br>
 ***==============================***<br>
