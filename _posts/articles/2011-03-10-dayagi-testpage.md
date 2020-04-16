@@ -9,13 +9,13 @@ share: true
 ---
 <br>
 <div class="apester-media" data-media-id="5e81fc3235122a1c8b4b1fcd" height="512"></div>
-<div id="galking" style="height: 600px; width:300px; background:blue;">
+<div id="galking" style="height: 600px; width:300px; background:blue;"></div>
 <script>
   window.browsitag = window.browsitag || {};
   window.browsitag.cmd = window.browsitag.cmd || [];
   
   window.browsitag.cmd.push(() => {
-      window.browsitag.display([gal], {
+      window.browsitag.display(['galking'], {
           refresh: true, // Default is per what defined in the Browsi platform.
           keyValues: [{key: 'channelId', value: '5dbaa3f15db586381758ecff'}], // No default
           //adUnit: [AD CODE FROM CAMPAIGN SYSTEM] // Default is per what defined in the Browsi platform, notice no leading  “/“ 
