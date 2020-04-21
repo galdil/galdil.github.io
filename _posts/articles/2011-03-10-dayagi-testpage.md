@@ -9,7 +9,7 @@ share: true
 ---
 <br>
 <div class="apester-media" data-media-id="5e81fc3235122a1c8b4b1fcd" height="512"></div>
-<div id="galking" style="height: 600px; width:300px; background:blue;"></div>
+<div id="galking" style="height: 300px; width:600px; background:blue;"></div>
 <script>
   window.browsitag = window.browsitag || {};
   window.browsitag.cmd = window.browsitag.cmd || [];
