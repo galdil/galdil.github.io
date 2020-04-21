@@ -19,10 +19,10 @@ share: true
 <script async src="//middycdn-a.akamaihd.net/master/apester.js"></script>
 <script>
    window.browsitag.cmd.push(() => {
-      window.browsitag.display(['galking'], {
+      window.browsitag.display('galking', {
           refresh: true, // Default is per what defined in the Browsi platform.
-          keyValues: [{channelId: '5de78f15930a39ce1605e640'}], // No default
-          adUnit: ['/57778053/browsi_demo_low'] // Default is per what defined in the Browsi platform, notice no leading  “/“ 
+          keyValues: [{key: 'channelId', value: '5de78f15930a39ce1605e640'}], // No default
+          adUnit: '/57778053/browsi_demo_low' // Default is per what defined in the Browsi platform, notice no leading  “/“ 
       });
   });
 </script>
