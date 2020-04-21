@@ -22,7 +22,7 @@ share: true
       window.browsitag.display('galking', {
           refresh: true, // Default is per what defined in the Browsi platform.
           keyValues: [{key: 'channelId', value: '5de78f15930a39ce1605e640'}], // No default
-          adUnit: '/57778053/browsi_demo_low' // Default is per what defined in the Browsi platform, notice no leading  “/“ 
+          adUnit: '57778053/browsi_demo_low' // Default is per what defined in the Browsi platform, notice no leading  “/“ 
       });
   });
 </script>
