@@ -9,6 +9,25 @@ share: true
 ---
 <br>
 
+<div class="apester-media" data-media-id="5c1b616d4e621af0c9210051" height="512"></div>
+<div id="ad-placeholder"></div> 
+
+<script>
+  window.browsitag = window.browsitag || {};
+  window.browsitag.cmd = window.browsitag.cmd || [];
+</script>
+<script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<script async src="//middycdn-a.akamaihd.net/master/apester.js"></script>
+<script>
+   window.browsitag.cmd.push(() => {
+      window.browsitag.display('ad-placeholder', {
+          refresh: true, // Default is per what defined in the Browsi platform.
+          keyValues: [{key: 'channelId', value: 'some-channel'}], // No default
+          adUnit: '57778053/browsi_demo_low' // Default is per what defined in the Browsi platform, notice no leading  “/“ 
+      });
+  });
+</script>
+
 ***==============================***<br>
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
