@@ -8,10 +8,27 @@ comments: true
 share: true
 ---
 <br>
-<div class="apester-media" data-media-id="5dd41de69b860c2a32b9284b" height="512"></div>
+<!--<div class="apester-media" data-media-id="5dd41de69b860c2a32b9284b" height="512"></div>-->
 
 <!--<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>-->
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+
+<div
+      class="apester-strip apester-element"
+      is-mobile-only="false"
+      data-fast-strip="false"
+      strip-background="rgba(249,249,249,100)"
+      data-channel-tokens="5dcbc100166984f3524a0f58"
+      header-font-size="12"
+      item-text-color="black"
+      header-font-color="rgba(204,0,51,0.2)"
+      header-ltr="true"
+      item-shape="square"
+      item-has-shadow="false"
+      item-size="small"
+      header-text="what are you looking?"
+      partner="sddsa"
+    ></div>
 
 
 <br>
