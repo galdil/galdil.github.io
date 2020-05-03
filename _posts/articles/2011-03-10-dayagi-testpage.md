@@ -18,7 +18,7 @@ share: true
       is-mobile-only="false"
       data-fast-strip="false"
       strip-background="rgba(249,249,249,100)"
-      data-channel-tokens="5dcbc100166984f3524a0f59"
+      data-channel-tokens="5dcbc10016698427404a0f57"
       header-font-size="12"
       item-text-color="black"
       header-font-color="rgba(204,0,51,0.2)"
