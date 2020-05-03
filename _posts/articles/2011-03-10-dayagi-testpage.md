@@ -8,25 +8,10 @@ comments: true
 share: true
 ---
 <br>
-<!--<div class="apester-media" data-media-id="5e81fc3235122a1c8b4b1fcd" height="512"></div>-->
-<div id="galking" class="apester-media" data-media-id="5dd41de69b860c2a32b9284b" height="512"></div>
+<div class="apester-media" data-media-id="5dd41de69b860c2a32b9284b" height="512"></div>
 
-<script>
-  window.browsitag = window.browsitag || {};
-  window.browsitag.cmd = window.browsitag.cmd || [];
-</script>
 <!--<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>-->
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<script async src="//middycdn-a.akamaihd.net/master/apester.js"></script>
-<script>
-   window.browsitag.cmd.push(() => {
-      window.browsitag.display('galking', {
-          refresh: true, // Default is per what defined in the Browsi platform.
-          keyValues: [{key: 'channelId', value: '5de78f15930a39ce1605e640'}], // No default
-          adUnit: '57778053/browsi_demo_low' // Default is per what defined in the Browsi platform, notice no leading  “/“ 
-      });
-  });
-</script>
 
 
 <br>
