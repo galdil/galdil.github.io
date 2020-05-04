@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "primis-companion-stg"
-excerpt: "primis-companion-stg"
+title: "minuteMedia-companion-stg"
+excerpt: "minuteMedia-companion-stg"
 categories: articles
 ---
 
