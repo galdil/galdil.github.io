@@ -3,7 +3,7 @@ layout: post
 title: "strip-with-rtk-inUnit-Stg"
 excerpt: "strip-with-rtk-inUnit-Stg"
 modified: 2017-09-26
-categories: articles
+categories: strip-production
 ---
 <br>
 <div 
