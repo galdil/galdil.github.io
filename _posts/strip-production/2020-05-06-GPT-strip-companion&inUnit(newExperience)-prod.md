@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "GPT-strip-companion & inUnit(newExperience) prod"
-excerpt: "GPT-strip-companion & inUnit(newExperience) prod"
+title: "GPT-strip-companion & inUnit(newExperience) prod - not supported yet!"
+excerpt: "GPT-strip-companion & inUnit(newExperience) prod - not supported yet!"
 modified: 2017-09-26
 categories: strip-production
 ---
