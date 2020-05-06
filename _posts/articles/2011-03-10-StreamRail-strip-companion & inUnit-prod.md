@@ -1,11 +1,8 @@
 ---
 layout: post
-title: "StreamRail-strip-prod"
-excerpt: "StreamRail-strip-prod"
+title: "StreamRail strip companion & inUnit prod"
+excerpt: "StreamRail strip companion & inUnit prod"
 categories: articles
-tags: [sample-post, video]
-comments: true
-share: true
 ---
 <script type="text/javascript">
       (function() {
