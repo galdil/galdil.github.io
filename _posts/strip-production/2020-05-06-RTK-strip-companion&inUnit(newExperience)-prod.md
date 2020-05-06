@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "RTK-strip-companion & inUnit prod"
-excerpt: "RTK-strip-companion & inUnit prod"
+title: "RTK-strip-companion & inUnit(newExperience) prod"
+excerpt: "RTK-strip-companion & inUnit(newExperience) prod"
 modified: 2017-09-26
 categories: strip-production
 ---
