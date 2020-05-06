@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "primis"
-excerpt: "primis"
+title: "primis-inStream-companion-stg"
+excerpt: "primis-inStream-companion-stg"
 categories: articles
 tags: [sample-post, video]
 comments: true
