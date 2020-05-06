@@ -2,7 +2,7 @@
 layout: post
 title: "StreamRail strip companion & inUnit prod"
 excerpt: "StreamRail strip companion & inUnit prod"
-categories: articles
+categories: strip-production
 ---
 <script type="text/javascript">
       (function() {
