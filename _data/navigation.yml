@@ -7,10 +7,10 @@
   url: /puppeteer/
   
 - title: strip - production
-  url: /strip - production/
+  url: /strip-production/
   
 - title: strip - staging
-  url: /strip - staging/
+  url: /strip-staging/
 
 - title: Articles
   url: /articles/
