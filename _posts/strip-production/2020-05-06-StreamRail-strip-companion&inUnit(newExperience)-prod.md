@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "StreamRail strip companion & inUnit prod"
-excerpt: "StreamRail strip companion & inUnit prod"
+title: "StreamRail strip companion & inUnit(newExperience) prod"
+excerpt: "StreamRail strip companion & inUnit(newExperience) prod"
 categories: strip-production
 ---
 <script type="text/javascript">
