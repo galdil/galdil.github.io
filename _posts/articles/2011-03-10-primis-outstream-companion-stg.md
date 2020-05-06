@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "primis-companion-outstream-stg"
-excerpt: "primis-companion-outstream-stg"
+title: "primis-outstream-companion-stg"
+excerpt: "primis-outstream-companion-stg"
 categories: articles
 ---
 
