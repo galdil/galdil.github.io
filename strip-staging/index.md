@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: strip staging Test Pages
