@@ -4,17 +4,10 @@ title: "New Player All Engines - stg"
 excerpt: "New Player All Engines - stg"
 modified: 2017-09-26
 categories: articles
-tags: [sample-post]
-image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-comments: true
-share: true
 ---
 ### quiz
 <br>
-<div class="apester-media" data-media-id="5d76591614249e18524f309e" height="350"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5eb95d70c0a215845ab565c9" height="362"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### poll
 <br>
@@ -22,11 +15,11 @@ share: true
 <br>
 ### personality
 <br>
-<div class="apester-media" data-media-id="5d5006efac7f1a1f822828e0" height="354"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5eb95bbec0a215980fb565c5" height="350"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### countdown
 <br>
-<div class="apester-media" data-media-id="5d76595714249e78ff4f30a2" height="404"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5eb95d93c0a2156037b565cb" height="416"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### story
 <br>
@@ -34,12 +27,11 @@ share: true
 <br>
 ### gallery
 <br>
-<div class="apester-media" data-media-id="5cc98c7850ddd77421fb0b27" height="604"></div><script async
-src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5eb95ddbc0a215e24ab565cc" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### video quiz - new player
 <br>
-<div class="apester-media" data-media-id="5de8c6a2b570ff784c25dae2" height="388"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5eb95ed9c0a2154267b565cd" height="388"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### video poll - old renderer
 <br>
