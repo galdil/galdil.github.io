@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "strip-primis-instream-ad-on-top-inUnit-stg"
-excerpt: "strip-primis-instream-ad-on-top-inUnit-stg"
+title: "primis-strip-floating-ad-instream-stg"
+excerpt: "primis-strip-floating-ad-instream-stg"
 modified: 2017-09-26
 categories: articles
 ---
