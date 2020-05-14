@@ -4,13 +4,6 @@ title: "2-strips-with-unit-and-playlist-stg"
 excerpt: "2-strips-with-unit-and-playlist-stg"
 modified: 2017-09-26
 categories: articles
-tags: [readability]
-image:
-  feature: so-simple-sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-comments: true
-share: true
 ---
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 ## strip:
