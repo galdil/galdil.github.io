@@ -11,10 +11,9 @@ share: true
 ### Payments test active plan channels:
 ## marketer pro plan:
 <br>
-<div class="apester-media" data-media-id="5ec554ac2d8bda57bad98dfd" height="362"></div>
-<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
 ## publisher pro plan:
 <br>
-## channel with no plan:
+## free plan:
 <br>
+<div class="apester-media" data-media-id="5ec554ac2d8bda57bad98dfd" height="362"></div>
+<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
