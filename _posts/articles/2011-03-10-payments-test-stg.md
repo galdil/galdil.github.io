@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "payments-test"
-excerpt: "payments-test"
+title: "payments-test-stg"
+excerpt: "payments-test-stg"
 categories: articles
 tags: [sample-post, video]
 comments: true
