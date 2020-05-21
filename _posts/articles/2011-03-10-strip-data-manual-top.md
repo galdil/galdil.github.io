@@ -15,4 +15,4 @@ data-manual-top-mobile="30" <br>
 
 <div class="apester-media" data-media-id="5ea18e06044419599d2adf53" data-manual-top-desktop="55" data-manual-top-mobile="30" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 
-<div class="apester-media" data-media-id="5ec504d9c58222cd5bedf819" data-manual-top-mobile="100" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5ec504d9c58222cd5bedf819" data-manual-top="100" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
