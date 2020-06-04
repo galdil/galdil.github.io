@@ -10,7 +10,7 @@ share: true
 <br>
 <div id="galking" adunit="ds" class="apester-media" data-media-id="5ec6755f87074bf9cb9e027b" height="512"></div>
 
-<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<!--<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>-->
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 
 <!--<div
