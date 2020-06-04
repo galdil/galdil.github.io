@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 <br>
-<div id="galking" adunit="ds" class="apester-media" data-media-id="5e81fc3235122a1c8b4b1fcd" height="512"></div>
+<div id="galking" adunit="ds" class="apester-media" data-media-id="5ec6755f87074bf9cb9e027b" height="512"></div>
 
 <script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
