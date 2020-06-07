@@ -18,5 +18,4 @@ categories: articles
 <br>
 <div class="apester-media" data-media-id="5edcb3377e88e7f49ca4cfa6" height="388"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
-<div class="apester-media" data-media-id="5edcb2f17e88e7ef32a4cfa3" height="388"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
--->
+<div class="apester-media" data-media-id="5edcb2f17e88e7ef32a4cfa3" height="388"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>-->
