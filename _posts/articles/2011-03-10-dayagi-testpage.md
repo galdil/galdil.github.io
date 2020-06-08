@@ -8,10 +8,10 @@ comments: true
 share: true
 ---
 <br>
-<div id="galking" adunit="ds" class="apester-media" data-media-id="5edcea357e88e7721ca4cfc2" height="512"></div>
+<div id="galking" class="apester-media" data-media-id="5de78f998f7cf483add06369" height="512"></div>
 
-<!--<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>-->
-<script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<!--<script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>-->
 
 <!--<div
       class="apester-strip apester-element"
