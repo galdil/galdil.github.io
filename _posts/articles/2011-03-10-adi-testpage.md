@@ -8,28 +8,8 @@ comments: true
 share: true
 ---
 
-<p>adi test 1.24</p>
-<br>
-<div class="apester-media" data-media-id="5e73674acb15180f7a45e6ab" height="515"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-### first
-<br>
-  
-  <div class="apester-media" data-media-id="5de7c28c1e4c418bccbf61e1" data-manual-top-mobile="50"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-  
-    
- <div class="apester-media" data-media-id="5e20605247690889ae49ae54" data-manual-top-mobile="50"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-  
-  <div class="apester-media" data-media-id="5de7c28c1e4c418bccbf61e1" data-manual-top-mobile="50"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<iframe height="350" width="100%" style="display: block !important; height: 350px !important; width: 100% !important; max-width: 600px; " scrolling="0" frameBorder="0"  src="https://renderer.apester.com/interaction/5ed5d8fff664519e5e25e7cd"></iframe>
 
-### second
-<br>
-<br>
-<script async async="null" src="//static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-  <div class="apester-media" data-media-id="5e0cae3333720f598e564cc3" height="470"></div>
-    <br>
-    
-
-<br>
 ***==============================***<br>
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
