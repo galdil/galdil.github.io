@@ -23,5 +23,3 @@ share: true
   header-font-weight="bold"  
   header-ltr="false"   
   data-fast-strip="true"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
-<div class="apester-media" data-media-id="5ee8b4ef1f7cd946cabec512" height="350"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
