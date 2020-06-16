@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "minute-media-video-instream"
-excerpt: "minute-media-video-instream"
+title: "minute-media-video-instream-story"
+excerpt: "minute-media-video-instream-story"
 categories: articles
 tags: [sample-post, video]
 comments: true
