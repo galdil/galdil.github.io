@@ -27,7 +27,7 @@ for those interested. Sections 1.10.32 and 1.10.33 from<br>
 "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form,<br>
 accompanied by English versions from the 1914 translation by H. Rackham.<br>
 <br>
-<div class="apester-media" data-media-id="5ee7954064ed4c040ac16b56" height="512"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5ee8b4ef1f7cd946cabec512" height="350"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 ### here can I get some?
 <br>
