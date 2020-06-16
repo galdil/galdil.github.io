@@ -22,5 +22,5 @@ share: true
   header-font-color="rgba(83,151,255,1)"  
   header-font-weight="bold"  
   header-ltr="false"   
-  data-fast-strip="true"></div>
+  data-fast-strip="true"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
