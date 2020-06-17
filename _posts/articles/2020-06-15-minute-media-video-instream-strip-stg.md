@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "minute-media-video-instream-strip"
-excerpt: "minute-media-video-instream-strip"
+title: "minute-media-video-instream-strip-stg"
+excerpt: "minute-media-video-instream-strip-stg"
 categories: articles
 tags: [sample-post, video]
 comments: true
