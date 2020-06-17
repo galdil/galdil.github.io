@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "minute-media-video-instream-multiple-tags"
-excerpt: "minute-media-video-instream-multiple-tags"
+title: "minute-media-video-instream-multiple-tags-stg"
+excerpt: "minute-media-video-instream-multiple-tags-stg"
 categories: articles
 tags: [sample-post, video]
 comments: true
