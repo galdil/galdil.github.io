@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "minute-media-video-instream-poll"
-excerpt: "minute-media-video-instream-poll"
+title: "minute-media-video-instream-poll-stg"
+excerpt: "minute-media-video-instream-poll-stg"
 categories: articles
 tags: [sample-post, video]
 comments: true
