@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "minute-media-video-instream-multiple-ad-providers"
-excerpt: "minute-media-video-instream-multiple-ad-providers"
+title: "minute-media-video-instream-multiple-ad-providers-stg"
+excerpt: "minute-media-video-instream-multiple-ad-providers-stg"
 categories: articles
 tags: [sample-post, video]
 comments: true
