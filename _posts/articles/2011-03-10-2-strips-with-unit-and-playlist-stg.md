@@ -6,9 +6,9 @@ modified: 2017-09-26
 categories: articles
 ---
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
-## strip:
+## strip stg:
 <br>
-<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5cecf27576a6ba0a80731a38" item-shape="roundSquare" item-has-shadow="false" item-size="small" item-text-color="white" strip-background="transparent" data-fast-strip="true"></div>
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5e3c363d9ca481b80f8a8068" item-shape="roundSquare" item-has-shadow="false" item-size="small" item-text-color="white" strip-background="transparent" data-fast-strip="true"></div>
 <br>
 ## editorial unit:
 <br>
