@@ -4,13 +4,6 @@ title: "poll-iframe-embed-prod"
 excerpt: "poll-iframe-embed-prod"
 modified: 2017-09-26
 categories: articles
-tags: [readability]
-image:
-  feature: so-simple-sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-comments: true
-share: true
 ---
 ###Iframe embed - production:
 <br>
