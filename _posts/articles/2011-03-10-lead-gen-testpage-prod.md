@@ -17,3 +17,6 @@ categories: articles
 <div class="apester-media" data-media-id="5f16c0acafd978232727ecf6" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
 <div class="apester-media" data-media-id="5f16c07f21b1e8d7b903da5a" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<br>
+### user in trial:
+<div class="apester-media" data-media-id="5f184bfd783b0a0d47aeff13" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
