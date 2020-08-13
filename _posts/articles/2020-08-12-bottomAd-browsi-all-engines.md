@@ -25,4 +25,8 @@ Gallery:
 <div class="apester-media" data-media-id="5f33b5fa141f0f986907a8ec" height="512"></div>
 
 
+Strip: 
+
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5f33ae400947a0253e444916" item-shape="roundSquare" item-has-shadow="false" item-size="small" item-text-color="white" strip-background="transparent" data-fast-strip="true"></div>
+
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
