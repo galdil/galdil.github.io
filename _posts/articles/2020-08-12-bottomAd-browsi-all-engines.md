@@ -7,7 +7,6 @@ tags: [sample-post, bottomAd, minutemedia, browsi]
 comments: true
 share: true
 ---
-almog yoyoy
 
 Story: 
 
