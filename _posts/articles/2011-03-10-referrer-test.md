@@ -10,4 +10,4 @@ categories: articles
 <br>
 ### apester website
 <br>
-<a href="https://app.apester.com/">apester.com</a>
+<a href="https://apester.com/">apester.com</a>
