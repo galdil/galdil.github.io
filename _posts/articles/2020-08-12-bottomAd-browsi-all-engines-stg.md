@@ -24,6 +24,6 @@ Gallery:
 
 <div class="apester-media" data-media-id="5f33b5fa141f0f986907a8ec" height="512"></div>
 
+<div class="apester-media" data-media-id="5f38b4f0e5d1579250843f16" height="404"></div>
+
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
-<div class="apester-media" data-media-id="5f38b4f0e5d1579250843f16" height="404"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
