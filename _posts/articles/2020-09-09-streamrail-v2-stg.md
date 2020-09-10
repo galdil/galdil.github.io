@@ -8,47 +8,44 @@ comments: false
 share: false
 ---
 <script type="text/javascript">
-      (function() {
-        var gdprAppliesGlobally = false;
-            function addFrame() {
-                  if (!window.frames['__cmpLocator']) {
-                        if (document.body) {
-                              var body = document.body,
-                              iframe = document.createElement('iframe');
-                              iframe.style = 'display:none';
-                              iframe.name = '__cmpLocator';
-                              body.appendChild(iframe);
-                        } else {
-                              // In the case where this stub is located in the head,
-                              // this allows us to inject the iframe more quickly than
-                              // relying on DOMContentLoaded or other events.
-                              setTimeout(addFrame, 5);
-                              }
-                        }
-                  }
-            addFrame();
-            function stubCMP() {
-                  var b = arguments;
-                  __cmp.a = __cmp.a || [];
-                  if (!b.length) return __cmp.a;
-                  else if (b[0] === 'ping') {
-                        b[2](
-                        {
-                              gdprAppliesGlobally: gdprAppliesGlobally,
-                              cmpLoaded: false,
-                        },
-                        true,
-                        );
-            } else if (b[0] === 'getVendorConsents') {
+(function() {
+  var gdprAppliesGlobally = false;
+  function addFrame() {
+   if (!window.frames['__cmpLocator']) {
+     if (document.body) {
+      var body = document.body,
+      iframe = document.createElement('iframe');
+      iframe.style = 'display:none';
+      iframe.name = '__cmpLocator';
+      body.appendChild(iframe);
+     } else {
+              setTimeout(addFrame, 5);
+            }
+          }
+        }
+        addFrame();
+        function stubCMP() {
+          var b = arguments;
+          __cmp.a = __cmp.a || [];
+          if (!b.length) return __cmp.a;
+          else if (b[0] === 'ping') {
+            b[2](
+              {
+                gdprAppliesGlobally: gdprAppliesGlobally,
+                cmpLoaded: false,
+              },
+              true,
+            );
+          } else if (b[0] === 'getVendorConsents') {
             setTimeout(
               () =>
                 b[2](
                   {
                     metadata: 'BOJObISOJObISAABAAENAA4AAAAAoAAA',
-                    gdprApplies: 'true',
-                    hasGlobalScope: 'true',
-                    purposeConsents: { '2': true, '4': true },
-                    vendorConsents: { '354': true },
+                    gdprApplies: 'false',
+                    hasGlobalScope: 'false',
+                    purposeConsents: { '2': false, '4': false },
+                    vendorConsents: { '354': false },
                   },
                   true,
                 ),
@@ -95,8 +92,6 @@ share: false
           else window.attachEvent('onmessage', cmpMsgHandler);
         }
       })();
-   </script>
-
 
 Story: 
 
