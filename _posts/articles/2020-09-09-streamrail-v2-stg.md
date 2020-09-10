@@ -92,7 +92,6 @@ share: false
           else window.attachEvent('onmessage', cmpMsgHandler);
         }
       })();
-
 Story: 
 
 <div class="apester-media" data-media-id="5f591d9a5d97db7bb558d736" height="512"></div>
