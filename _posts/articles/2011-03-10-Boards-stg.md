@@ -7,5 +7,5 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
-<div class="apester-board" channel-id="5ec3a9e4bbd85ec5b36efc4e" height="552"></div>
+<div class="apester-board" channel-id="5ec3a9e4bbd85ec5b36efc4e" height="562"></div>
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
