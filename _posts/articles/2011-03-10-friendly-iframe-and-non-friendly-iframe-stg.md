@@ -10,4 +10,4 @@ categories: articles
 <br>
 ### friendly iframe:
 <br>
-<div class="apester-media" data-media-id="5f5641f0d7eb219f394f883e" height="600"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5ce409e748e1b270ecf7e6bd" height="600"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
