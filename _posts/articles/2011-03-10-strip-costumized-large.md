@@ -12,7 +12,6 @@ image:
 comments: true
 share: true
 ---
-size: large, shape: square, text-color: black, strip background-color: white
 <div
   class="apester-strip"
   is-mobile-only="false" 
@@ -29,9 +28,6 @@ size: large, shape: square, text-color: black, strip background-color: white
   bottom-border-width="1"
   thumbnails-stroke-color="4f1e9d"
   ></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
-<br>
-size: large, shape: round, text-color: black, strip background-color: white
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
@@ -48,8 +44,6 @@ size: large, shape: round, text-color: black, strip background-color: white
   bottom-border-width="1"
   thumbnails-stroke-color="4f1e9d"
   ></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
-<br>
 size: large, shape: roundSquare, text-color: black, strip background-color: white
 <div 
   class="apester-strip" 
@@ -67,5 +61,3 @@ size: large, shape: roundSquare, text-color: black, strip background-color: whit
   bottom-border-width="1"
   thumbnails-stroke-color="4f1e9d"
   ></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-<br>
-<br>
