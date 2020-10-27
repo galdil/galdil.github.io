@@ -44,7 +44,6 @@ share: true
   bottom-border-width="1"
   thumbnails-stroke-color="4f1e9d"
   ></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-size: large, shape: roundSquare, text-color: black, strip background-color: white
 <div 
   class="apester-strip" 
   is-mobile-only="false" 
