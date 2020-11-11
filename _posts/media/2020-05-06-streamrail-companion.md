@@ -5,5 +5,12 @@ excerpt: "media-sr-companion-all-engines-stg"
 modified: 2020-11-11
 categories: media
 ---
-Almooooooooog
-<div class="apester-media" data-token="5f3a75c6196260aa7c55e588" data-context="true" data-tags="" data-fallback="true" height="350"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+
+
+------------QUIZ----------------
+<div class="apester-media" data-media-id="5fac0695243f184239f8bd34" height="350"></div>
+
+------------POLL--------------------
+
+<div style="marginTop: 50px" class="apester-media" data-media-id="5fac06e5243f18cdeaf8bd36" height="350"></div>
+<script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
