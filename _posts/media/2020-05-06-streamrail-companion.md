@@ -17,7 +17,7 @@ categories: media
 
 ------------STORY--------------------
 
-<div style="marginTop: 150px" class="apester-media" data-media-id="5fac0b12243f187ed9f8bd47" height="512">
+<div style="marginTop: 150px" class="apester-media" data-media-id="5fac0b12243f187ed9f8bd47" height="512"> </div>
 
 -------------COUNTDOWN----------------
 
