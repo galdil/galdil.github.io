@@ -37,7 +37,7 @@ categories: media
 
 -----------------VIDEO-POLL------------
 
-<div style="marginTop: 150px" class="apester-media" data-media-id="5de521233a6da73a24ccfac4" height="388"></div
+<div style="marginTop: 150px" class="apester-media" data-media-id="5de521233a6da73a24ccfac4" height="388"></div>
 
 
 <script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
