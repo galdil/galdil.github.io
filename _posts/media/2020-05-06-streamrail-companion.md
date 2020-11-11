@@ -23,11 +23,11 @@ categories: media
 
 <div style="marginTop: 150px" class="apester-media" data-media-id="5fac07fb243f184385f8bd3c" height="404"></div> -->
 
-<!-- -------------GALLERY----------------
+-------------GALLERY----------------
 
 <div style="marginTop: 150px" class="apester-media" data-media-id="5bf1bd34e559799eb6ce5310" height="512"></div>
 
---------------Personallity-----------
+<!-- --------------Personallity-----------
 
 <div style="marginTop: 150px" class="apester-media" data-media-id="5c10de63f05f234065545805" height="350"></div>
 
