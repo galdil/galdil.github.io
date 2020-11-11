@@ -19,9 +19,9 @@ categories: media
 
 <div style="marginTop: 150px" class="apester-media" data-media-id="5fac0b12243f187ed9f8bd47" height="512"> </div>
 
-<!-- -------------COUNTDOWN----------------
+-------------COUNTDOWN----------------
 
-<div style="marginTop: 150px" class="apester-media" data-media-id="5fac07fb243f184385f8bd3c" height="404"></div> -->
+<div style="marginTop: 150px" class="apester-media" data-media-id="5fac07fb243f184385f8bd3c" height="404"></div>
 
 -------------GALLERY----------------
 
