@@ -11,7 +11,9 @@ categories: media
 
 ------------POLL--------------------
 
-<div style="marginTop: 150px" class="apester-media" data-media-id="5fac06e5243f18cdeaf8bd36" height="350"></div>
+<div style="width: 440px">
+    <div style="marginTop: 150px" class="apester-media" data-media-id="5fac06e5243f18cdeaf8bd36" height="350"></div>
+</div>
 
 ------------STORY--------------------
 
@@ -31,7 +33,9 @@ categories: media
 
 ---------------VIDEO-QUIZ-------------
 
-<div style="marginTop: 150px" class="apester-media" data-media-id="5eae5fb457bbdb5b4fe22c09" height="388"></div>
+<div style="width: 320px">
+    <div style="marginTop: 150px" class="apester-media" data-media-id="5eae5fb457bbdb5b4fe22c09" height="388"></div>
+</div>
 
 -----------------VIDEO-POLL------------
 
