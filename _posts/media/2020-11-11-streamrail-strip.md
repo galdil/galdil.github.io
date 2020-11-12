@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "media-sr-companion-strip"
-excerpt: "media-sr-companion-strip"
+title: "media-sr-strip"
+excerpt: "media-sr-strip"
 modified: 2020-11-11
 categories: media
 ---
