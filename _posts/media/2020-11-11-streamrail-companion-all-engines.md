@@ -11,7 +11,7 @@ categories: media
 
 ------------POLL--------------------
 
-<div style="width: 440px">
+<div style="width: 3600px">
     <div style="marginTop: 150px" class="apester-media" data-media-id="5fac06e5243f18cdeaf8bd36" height="350"></div>
 </div>
 
