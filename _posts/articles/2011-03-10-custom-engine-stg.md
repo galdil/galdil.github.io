@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "custom-engine-stg"
 excerpt: "custom-engine-stg"
 categories: articles
