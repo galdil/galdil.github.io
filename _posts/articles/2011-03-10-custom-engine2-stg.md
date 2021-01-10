@@ -7,4 +7,4 @@ tags: [sample-post, video]
 comments: true
 share: true
 ---
-<div class="apester-media" data-media-id="5fee058dfb3ee1742508dc89" height="1360"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="5ffb2440a64441bea94559b7" height="400"></div><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
