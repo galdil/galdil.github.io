@@ -21,7 +21,7 @@ share: true
       strip-background="rgba(249,249,249,100)"
       data-channel-tokens="5e9d868fbf57fa2f44a3d99b"
       header-font-size="12"
-      item-text-color="black"
+      item-text-color="green"
       header-font-color="rgba(204,0,51,0.2)"
       header-ltr="true"
       item-shape="square"
