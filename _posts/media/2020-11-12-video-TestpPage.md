@@ -6,6 +6,8 @@ modified: 2020-11-12
 categories: media
 ---
 <br>
+<script data-cfasync="false" async type="text/javascript" src="//go.trvdp.com/init/4176.js?pid=3939"></script>
+<br>
 ## Cupidatat 90's lo-fi authentic try-hard
 
 In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's. 
@@ -31,4 +33,3 @@ Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's nex
 ## Hoodie Duis
 
 Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-<script data-cfasync="false" async type="text/javascript" src="//go.trvdp.com/init/4176.js?pid=3939"></script>
