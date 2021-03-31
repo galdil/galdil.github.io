@@ -3,9 +3,6 @@ layout: post
 title: "Playlist-prod"
 excerpt: "Playlist-prod"
 categories: articles
-tags: [sample-post, video]
-comments: true
-share: true
 ---
 <br>
 ## Cupidatat 90's lo-fi authentic try-hard
