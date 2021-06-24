@@ -1,4 +1,4 @@
-l---
+---
 layout: post
 title: "gpt-new-sdk-stg"
 excerpt: "gpt-new-sdk-stg"
