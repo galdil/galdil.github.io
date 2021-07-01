@@ -30,6 +30,8 @@ share: true
       header-text="what are you looking?"
       partner="sddsa"
 ></div>
+
+<div class="apester-board" channel-id="5f6ccdd1ecd8e2c7c89b88bb" height="562"></div>
 <!--
 <script>	
       window.browsitag = window.browsitag || {};	
