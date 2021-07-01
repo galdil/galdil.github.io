@@ -10,5 +10,5 @@ share: true
 <br>
 ### Playlist staging
 <br>
-<interaction data-token="5de7afe545a46e25dca232a9" data-context="true" data-tags="" data-fallback="true"></interaction><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<interaction data-token="5de7afe545a46e25dca232a9" data-manual-top-mobile="60" data-context="true" data-tags="" data-fallback="true"></interaction><script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <br>
