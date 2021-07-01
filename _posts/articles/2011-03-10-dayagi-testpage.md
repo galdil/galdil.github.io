@@ -31,7 +31,7 @@ share: true
       partner="sddsa"
 ></div>
 
-<div class="apester-board" channel-id="5f6ccdd1ecd8e2c7c89b88bb" height="562"></div>
+<div class="apester-board" channel-id="5de78f15930a39ce1605e640" height="562"></div>
 <!--
 <script>	
       window.browsitag = window.browsitag || {};	
