@@ -9,12 +9,12 @@ share: true
 ---
 <br>
 
-<div class="apester-media" data-media-id="5f60daed0db42700166bb9f7" height="512"></div>
+<div class="apester-media" data-media-id="610a402fabae190024b7ade7" height="512"></div>
 
 <!--<script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>-->
-<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<script async src="https://sdk.dayagi.apester.dev/js/sdk/latest/apester-sdk.js"></script>
 
-<div
+<!-- <div
       class="apester-strip apester-element"
       is-mobile-only="false"
       data-fast-strip="false"
@@ -29,9 +29,9 @@ share: true
       item-size="small"
       header-text="what are you looking?"
       partner="sddsa"
-></div>
+></div> -->
 
-<div class="apester-board" channel-id="5de78f15930a39ce1605e640" height="562"></div>
+<!-- <div class="apester-board" channel-id="5de78f15930a39ce1605e640" height="562"></div> -->
 <!--
 <script>	
       window.browsitag = window.browsitag || {};	
