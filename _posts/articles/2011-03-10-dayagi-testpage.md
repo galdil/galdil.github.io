@@ -9,10 +9,10 @@ share: true
 ---
 <br>
 
-<div class="apester-media" data-media-id="610a402fabae190024b7ade7" height="512"></div>
-
-<!--<script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>-->
-<script async src="https://static.dayagi.apester.dev/js/sdk/latest/apester-sdk.js"></script>
+<!-- <div class="apester-media" data-media-id="610a402fabae190024b7ade7" height="512"></div> -->
+<div class="apester-media" data-media-id="60bdd48cf58977002555ff79" height="512"></div>
+<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<!-- <script async src="https://static.dayagi.apester.dev/js/sdk/latest/apester-sdk.js"></script> -->
 
 <!-- <div
       class="apester-strip apester-element"
