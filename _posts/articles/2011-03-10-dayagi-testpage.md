@@ -12,7 +12,7 @@ share: true
 <div class="apester-media" data-media-id="610a402fabae190024b7ade7" height="512"></div>
 
 <!--<script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>-->
-<script async src="https://sdk.dayagi.apester.dev/js/sdk/latest/apester-sdk.js"></script>
+<script async src="https://static.dayagi.apester.dev/js/sdk/latest/apester-sdk.js"></script>
 
 <!-- <div
       class="apester-strip apester-element"
