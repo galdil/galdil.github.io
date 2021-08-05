@@ -14,22 +14,7 @@ share: true
 <script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <!-- <script async src="https://static.stg.apester.dev/js/sdk/latest/apester-sdk.js"></script> -->
 
-<div
-      class="apester-strip apester-element"
-      is-mobile-only="false"
-      data-fast-strip="false"
-      strip-background="rgba(249,249,249,100)"
-      data-channel-tokens="5de78f15930a390f4d05e63f"
-      header-font-size="12"
-      item-text-color="green"
-      header-font-color="rgba(204,0,51,0.2)"
-      header-ltr="true"
-      item-shape="square"
-      item-has-shadow="false"
-      item-size="small"
-      header-text="what are you looking?"
-      partner="sddsa"
-></div>
+<div class="apester-strip" is-mobile-only="false" data-channel-tokens="5de78f15930a390f4d05e63f" item-shape="roundSquare" item-size="medium" strip-background="transparent" thumbnails-stroke-color="rgb(264, 46, 61)"  header-font-family="Lato"  header-provider="system"  header-font-size="18"  header-font-color="rgba(0,0,0,1)"  header-font-weight="400"  header-ltr="true"  top-border-width="0"  top-border-color="#000000ff"  bottom-border-width="0"  bottom-border-color="#000000ff"  data-fast-strip="true"></div>
 
 <!-- <div class="apester-board" channel-id="5de78f15930a39ce1605e640" height="562"></div> -->
 <!--
