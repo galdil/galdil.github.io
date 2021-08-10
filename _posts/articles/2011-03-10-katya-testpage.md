@@ -26,7 +26,8 @@ Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater u
 
 
 <br>
-<script type="module" src="https://sdk.katya.apester.dev/web-sdk.core.min.js"></script><script nomodule src="https://sdk.katya.apester.dev/web-sdk.core.legacy.min.js" async ></script><div class="apester-media" data-media-id="611277fb82124f0024bf1e86" height="512"></div>
+<script type="module" src="https://sdk.katya.apester.dev/web-sdk.core.min.js"></script><script nomodule src="https://sdk.katya.apester.dev/web-sdk.core.legacy.min.js" async ></script>
+<div class="apester-media" data-media-id="611277fb82124f0024bf1e86" height="512"></div>
 
 
 ## Cupidatat 90's lo-fi authentic try-hard
