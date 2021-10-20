@@ -97,4 +97,4 @@ Story:
 
 <div class="apester-media" data-media-id="611cee36a9e04b00247edc37" height="512"></div>
 
-<script async src="https://sdk.dayagi.apester.dev/web-sdk.core.legacy.min.js"></script>
+<script async src="https://sdk.stg.apester.dev/web-sdk.core.legacy.min.js"></script>
