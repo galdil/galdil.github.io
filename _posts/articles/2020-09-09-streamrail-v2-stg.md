@@ -95,6 +95,6 @@ share: false
 </script>
 Story: 
 
-<div class="apester-media" data-media-id="5f591d9a5d97db7bb558d736" height="512"></div>
+<div class="apester-media" data-media-id="611cee36a9e04b00247edc37" height="512"></div>
 
-<script async src="https://static.stg.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<script async src="https://sdk.dayagi.apester.dev/web-sdk.core.legacy.min.js"></script>
