@@ -11,7 +11,8 @@ share: true
 
 <!-- <div class="apester-media" data-media-id="610a402fabae190024b7ade7" height="512"></div> -->
 <!-- <div class="apester-media" data-media-id="610ab97127f97200252945fe" height="512"></div> -->
-<script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<script async src="https://sdk.apester.com/web-sdk.core.legacy.min.js"></script>
+
 <!-- <script async src="https://sdk.dayagi.apester.dev/web-sdk.core.min.js"></script> -->
 <!-- <div class="apester-media" data-media-id="61a740e6aeb6f0002a22634b" height="512"></div> -->
 <div class="apester-media" data-media-id="61a740e6aeb6f0002a22634b" height="512" agency-data="{&quot;agencyName&quot;: &quot;lal&quot;}"></div>
