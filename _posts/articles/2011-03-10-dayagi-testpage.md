@@ -14,6 +14,7 @@ share: true
 <script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 <!-- <script async src="https://sdk.dayagi.apester.dev/web-sdk.core.min.js"></script> -->
 <div class="apester-media" data-media-id="61a740e6aeb6f0002a22634b" height="512"></div>
+<div class="apester-media" data-media-id="61a740e6aeb6f0002a22634b" height="512" agency-data="{&quot;agencyName&quot;: &quot;lal&quot;}"></div>
 
 <!-- <div class="apester-strip" is-mobile-only="false" data-channel-tokens="5de78f15930a390f4d05e63f" item-shape="roundSquare" item-size="medium" strip-background="transparent" thumbnails-stroke-color="rgb(264, 46, 61)"  header-font-family="Lato"  header-provider="system"  header-font-size="18"  header-font-color="rgba(0,0,0,1)"  header-font-weight="400"  header-ltr="true"  top-border-width="0"  top-border-color="#000000ff"  bottom-border-width="0"  bottom-border-color="#000000ff"  data-fast-strip="true"></div> -->
 
