@@ -9,7 +9,9 @@ share: true
 ---
 <br>
 
-<div class="apester-media" data-media-id="61d30600ccbfda00269309b5" height="350"></div><script async src="https://sdk.stg.apester.dev/web-sdk.core.min.js"></script>
+<!-- <div class="apester-media" data-media-id="61d30600ccbfda00269309b5" height="350"></div><script async src="https://sdk.stg.apester.dev/web-sdk.core.min.js"</script> -->
+
+<div class="apester-media" data-media-id="61dd86f988ca07002b483faf" height="519"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
 
 <!-- <div class="apester-media" data-media-id="610a402fabae190024b7ade7" height="512"></div> -->
 <!-- <div class="apester-media" data-media-id="610ab97127f97200252945fe" height="512"></div> -->
