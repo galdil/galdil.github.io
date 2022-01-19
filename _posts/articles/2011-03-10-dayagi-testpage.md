@@ -13,7 +13,7 @@ share: true
 
 <!-- <div class="apester-media" data-media-id="613d0754e9d41e0024816a38" height="519"></div><script async src="https://sdk.stg.apester.dev/web-sdk.core.min.js"></script> -->
 
-<div class="apester-media" data-media-id="61e6e233711197002a4b41e6" height="512"></div><script async src="https://static.dayagi.apester.dev/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="61e6e233711197002a4b41e6" height="512"></div><script async src="https://sdk.dayagi.apester.dev/web-sdk.core.min.js"></script>
 
 <!-- <div class="apester-media" data-media-id="610a402fabae190024b7ade7" height="512"></div> -->
 <!-- <div class="apester-media" data-media-id="610ab97127f97200252945fe" height="512"></div> -->
