@@ -8,5 +8,4 @@ comments: true
 share: true
 ---
 dsadsadsad
-<div class="apester-media" data-media-id="5ca9f47a4869a80f31d1f517" height="1600"></div><script async
-src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="60bdfee09bb072002539fe83" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
