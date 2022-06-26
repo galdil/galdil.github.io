@@ -9,7 +9,8 @@ share: true
 ---
 <br>
 
-<div class="apester-media" data-media-id="62a5c51e7c1ce9002a94941f" height="350"></div><script async src="https://sdk.dayagi.apester.dev/web-sdk.core.min.js"</script>
+<div class="apester-media" data-media-id="62a5c51e7c1ce9002a94941f" height="350"></div>
+<script async src="https://sdk.dayagi.apester.dev/web-sdk.core.min.js"</script>
 
 
 
