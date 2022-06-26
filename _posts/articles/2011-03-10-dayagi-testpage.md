@@ -10,7 +10,6 @@ share: true
 <br>
 
 <div class="apester-media" data-media-id="62a5c51e7c1ce9002a94941f" height="350"></div>
-<script async src="https://sdk.dayagi.apester.dev/web-sdk.core.min.js"</script>
 
 
 
@@ -22,7 +21,7 @@ share: true
 
 <!-- <div class="apester-media" data-media-id="610a402fabae190024b7ade7" height="512"></div> -->
 <!-- <div class="apester-media" data-media-id="610ab97127f97200252945fe" height="512"></div> -->
-<script async src="https://sdk.apester.com/web-sdk.core.legacy.min.js"></script>
+<script async src="https://sdk.dayagi.apester.dev/web-sdk.core.legacy.min.js"></script>
 
 <!-- <div class="apester-media" data-media-id="61b0ba5c030be3002b37ccaf" height="512" agency-data="{&quot;agencyName&quot;: &quot;lal&quot;}"></div> -->
 
