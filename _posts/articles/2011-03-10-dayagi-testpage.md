@@ -19,8 +19,8 @@ share: true
 <script async src="https://sdk.stg.apester.dev/web-sdk.core.min.js"></script> -->
 
 <!-- <div class="apester-media" data-media-id="610a402fabae190024b7ade7" height="512"></div> -->
-<!-- <div class="apester-media" data-media-id="610ab97127f97200252945fe" height="512"></div> -->
-<script async src="https://sdk.dayagi.apester.dev/web-sdk.core.legacy.min.js"></script>
+<div class="apester-media" data-media-id="62b0365692f8be0029c69682" height="512"></div>
+<script async src="https://sdk.stg.apester.dev/web-sdk.core.legacy.min.js"></script>
 
 <!-- <div class="apester-media" data-media-id="61b0ba5c030be3002b37ccaf" height="512" agency-data="{&quot;agencyName&quot;: &quot;lal&quot;}"></div> -->
 
@@ -81,4 +81,3 @@ Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard 
 
 Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
 
-<div class="apester-media" data-media-id="62a5c51e7c1ce9002a94941f" height="350"></div>
