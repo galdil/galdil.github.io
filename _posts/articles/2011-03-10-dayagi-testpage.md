@@ -12,7 +12,7 @@ share: true
 
 
 
-<div class="apester-media" data-media-id="6380ea1fcfe598002a0909c3"></div><script type="module" src="https://sdk.andrey.apester.dev/web-sdk.core.min.js"></script><script nomodule src="https://sdk.andrey.apester.dev/web-sdk.core.legacy.min.js" async></script>
+<div class="apester-media" data-media-id="63ff28ae5bd62c0026494c8b"></div><script type="module" src="https://sdk.sapir.apester.dev/web-sdk.core.min.js"></script><script nomodule src="https://sdk.sapir.apester.dev/web-sdk.core.legacy.min.js" async></script>
 
 <!-- <div class="apester-strip" is-mobile-only="false" data-channel-tokens="627b9ec4e7a5a1000e863876" item-shape="roundSquare" item-size="medium" strip-background="transparent" thumbnails-stroke-color="rgb(264, 46, 61)"  header-font-family="Lato"  header-provider="system"  header-font-size="18"  header-font-color="rgba(0,0,0,1)"  header-font-weight="400"  header-ltr="true"  top-border-width="0"  top-border-color="#000000ff"  bottom-border-width="0"  bottom-border-color="#000000ff"  data-fast-strip="true"></div><script type="module" src="https://sdk.andrey.apester.dev/web-sdk.core.min.js"></script><script nomodule src="https://sdk.andrey.apester.dev/web-sdk.core.legacy.min.js" async></script> -->
 
