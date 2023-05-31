@@ -4,6 +4,4 @@ title: "2-units-minuteMedia-inUnit-prod"
 excerpt: "2-units-minuteMedia-inUnit-prod"
 categories: articles
 ---
-<div class="apester-media" data-media-id="5eafe079d2ea631659c3f5d3" height="349"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
-dsadsadds<br>
-<div class="apester-media" data-media-id="5eafe0b563525bd3bc305fb2" height="512"></div><script async src="https://static.apester.com/js/sdk/latest/apester-sdk.js"></script>
+<div class="apester-media" data-media-id="645920dee5a4ee0026c92211"></div><script type="module" src="https://sdk.stg.apester.dev/web-sdk.core.min.js"></script><script nomodule src="https://sdk.stg.apester.dev/web-sdk.core.legacy.min.js" async></script>
